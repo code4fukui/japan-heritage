@@ -2,6 +2,9 @@ import { HTMLParser } from "https://js.sabae.cc/HTMLParser.js";
 import { writeData } from "https://js.sabae.cc/writeData.js";
 import { fetchOrLoad } from "https://js.sabae.cc/fetchOrLoad.js";
 import { CSV } from "https://js.sabae.cc/CSV.js";
+import { GooglePlaceAPI } from "https://code4fukui.github.io/GooglePlaceAPI/GooglePlaceAPI.js";
+
+const DEFAULT_ZOOM = 16;
 
 const host = "https://japan-heritage.bunka.go.jp";
 
@@ -32,6 +35,57 @@ for (const prop of props) {
           prop.lat = ll[0];
           prop.lng = ll[1];
           prop.zoom = ll[2];
+        }
+      } else {
+        const n2 = maplink.indexOf("cid=");
+        if (n2 >= 0) {
+          const n3 = maplink.indexOf("&", n2 + 4);
+          const cid = maplink.substring(n2 + 4, n3 < 0 ? maplink.length : n3);
+          console.log("cid", cid);
+          const pos = await GooglePlaceAPI.fetchPosFromCID(cid);
+          if (pos) {
+            prop.lat = pos.lat;
+            prop.lng = pos.lng;
+            prop.zoom = pos.zoom;
+          } else {
+            // https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/1461/
+
+            console.log("can't get pos " + url);
+          }
+        } else {
+          const params = new URL(maplink).searchParams;
+          const ftid = params.get("ftid");
+          if (ftid) {
+            console.log("ftid", ftid);
+            const pos = await GooglePlaceAPI.fetchPosFromFTID(ftid);
+            if (pos) {
+              prop.lat = pos.lat;
+              prop.lng = pos.lng;
+              prop.zoom = pos.zoom;
+            } else {
+              console.log("can't get pos " + url);
+            }
+          } else {
+            // https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/3099/
+            // error: Uncaught (in promise) Error: error! https://www.bing.com/maps?&mepi=0~~Unknown~Address_Link&ty=18&q=%E9%9B%A3%E6%B3%A2%E5%AE%AE%E8%B7%A1&ss=ypid.YN5286x2241593699821071964&ppois=34.678707122802734_135.52635192871094_%E9%9B%A3%E6%B3%A2%E5%AE%AE%E8%B7%A1_YN5286x2241593699821071964~&cp=34.678707~135.526352&v=2&sV=1
+            if (maplink.startsWith("https://www.bing.com/maps")) {
+              const ll = params.get("ppois").split("_");
+              prop.lat = ll[0];
+              prop.lng = ll[1];
+              prop.zoom = DEFAULT_ZOOM;
+              console.log("bing ", ll)
+            } else {
+              // mid - Google my map
+              // https://www.google.com/maps/d/embed?mid=1dLXFwGArp-aJ06ysVJS-CiSMtT_tW8o&ehbc=2E312F
+              // https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4367/
+              const mid = params.get("mid");
+              if (mid) {
+                console.log("My Maps id", mid);
+              } else {
+                throw new Error("error! " + maplink + " " + url);
+              }
+            }
+          }
         }
       }
     }
