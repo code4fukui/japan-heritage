@@ -22,20 +22,20 @@ A: for (let i = 1;; i++) {
     if (chk) break A;
     const img0 = a.querySelector(".wrp_img img").getAttribute("src");
     const image = img0[0] == "/" ? "https://japan-heritage.bunka.go.jp" + img0 : img0;
-    const jhid = parseInt(a.querySelector(".wrp_txt .story")?.text.substring(1));
-    if (!jhid) continue;
+    const jhno = parseInt(a.querySelector(".wrp_txt .story")?.text.substring(1));
+    if (!jhno) continue;
     const type = a.querySelector(".num").text;
     const day = a.querySelector(".wrp_txt .day").text.replace(/\./g, "-");
     const title = a.querySelector(".wrp_txt .st").text;
     const description = a.querySelector(".wrp_txt .txt")?.text || "";
     const areas = a.querySelectorAll(".wrp_txt .prefec li").map(l => l.text).join(",");
-    const d = { day, jhid, type, title, description, areas, url, image };
+    const d = { day, jhno, type, title, description, areas, url, image };
     if (chkupdate) {
       newlist.push(d);
     } else {
       list.push(d);
     }
-    console.log(day, jhid, title, areas);
+    console.log(day, jhno, title, areas);
   }
 }
 if (chkupdate) {

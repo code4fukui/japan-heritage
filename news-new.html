@@ -9,11 +9,21 @@
 <script type="module">
 import { CSV } from "https://js.sabae.cc/CSV.js";
 
+const heris = await CSV.fetchJSON("./japan-heritage.csv");
+
 const data = await CSV.fetchJSON("./japan-heritage_news.csv");
 for (let i = data.length - 1; i >= data.length - 100; i--) {
   const d = data[i];
+  const jhno = d.jhno;
+  const jh = heris.find(h => h.jhno == jhno);
+  console.log(d, jh, jhno, heris);
   const div = document.createElement("div");
-  div.innerHTML = `<a href=${d.url}><img src=${d.image}></a><br><div>${d.day}</div><h2>${d.title}</h2>`;
+  div.innerHTML = `
+    <a href=${d.url}><img src=${d.image}></a>
+      <div>${d.day}</div>
+      <h2>${d.title}</h2>
+      <div>No. ${jhno} <a href=${jh.url}>${jh.name}</a></div>
+  `;
   main.appendChild(div);
 }
 </script>
