@@ -5,7 +5,8 @@ import { CSV } from "https://js.sabae.cc/CSV.js";
 
 const chkupdate = Deno.args[0] == "update";
 
-const list = chkupdate ? (await CSV.fetchJSON("japan-heritage_news.csv")).reverse() : [];
+const list = chkupdate ? await CSV.fetchJSON("japan-heritage_news.csv") : [];
+const newlist = [];
 
 const url = "https://japan-heritage.bunka.go.jp/ja/news/?page=";
 A: for (let i = 1;; i++) {
@@ -28,11 +29,22 @@ A: for (let i = 1;; i++) {
     const title = a.querySelector(".wrp_txt .st").text;
     const description = a.querySelector(".wrp_txt .txt")?.text || "";
     const areas = a.querySelectorAll(".wrp_txt .prefec li").map(l => l.text).join(",");
-    list.push({ day, jhid, type, title, description, areas, url, image });
+    const d = { day, jhid, type, title, description, areas, url, image };
+    if (chkupdate) {
+      newlist.push(d);
+    } else {
+      list.push(d);
+    }
     console.log(day, jhid, title, areas);
   }
 }
-list.reverse();
+if (chkupdate) {
+  for (let i = newlist.length - 1; i >= 0; i--) {
+    list.push(newlist[i]);
+  }
+} else {
+  list.reverse();
+}
 await writeData("japan-heritage_news", list);
 
 /*
