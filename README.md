@@ -11,6 +11,7 @@
 - [日本遺一覧](japan-heritage.csv) [CSV](https://code4fukui.github.io/japan-heritage/japan-heritage.csv)/[JSON](https://code4fukui.github.io/japan-heritage/japan-heritage.json)/[CBOR](https://code4fukui.github.io/japan-heritage/japan-heritage.cbor)
 - [日本遺産 構成文化財一覧](japan-heritage_props.csv) [CSV](https://code4fukui.github.io/japan-heritage/japan-heritage_props.csv)/[JSON](https://code4fukui.github.io/japan-heritage/japan-heritage_props.json)/[CBOR](https://code4fukui.github.io/japan-heritage/japan-heritage_props.cbor)
 - [日本遺産 構成文化財一覧 詳細](japan-heritage_props_detail.csv) [CSV](https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail.csv)/[JSON](https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail.json)/[CBOR](https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail.cbor)
+- [日本遺産 構成文化財一覧 詳細 日本遺産別](japan-heritage_props_detail) CSV/JSON/CBOR
 - [日本遺産 緯度経度付き](japan-heritage_withpos.csv) [CSV](https://code4fukui.github.io/japan-heritage/japan-heritage_withpos.csv)/[JSON](https://code4fukui.github.io/japan-heritage/japan-heritage_withpos.json)/[CBOR](https://code4fukui.github.io/japan-heritage/japan-heritage_withpos.cbor)
 - [日本遺産 お知らせ一覧](japan-heritage_news.csv) [CSV](https://code4fukui.github.io/japan-heritage/japan-heritage_news.csv)/[JSON](https://code4fukui.github.io/japan-heritage/japan-heritage_news.json)/[CBOR](https://code4fukui.github.io/japan-heritage/japan-heritage_news.cbor)
 
