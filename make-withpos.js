@@ -12,5 +12,6 @@ for (const heri of heris) {
     heri.lat = p.lat;
     heri.lng = p.lng;
   }
+  heri.url_props = "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/" + heri.jhno + ".csv";
 }
 await writeData("japan-heritage_withpos", heris);

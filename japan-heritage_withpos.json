@@ -7,7 +7,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/08/213x143_ea1e9d427fb5664c32c517a73e421e58_6eb3456486d014a5ccc8495bdf280a147dbce1ee.jpg",
     "areas": "茨城県,栃木県,岡山県,大分県",
     "lat": "36.375145199999984",
-    "lng": "140.477631"
+    "lng": "140.477631",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/1.csv"
   },
   {
     "jhno": "2",
@@ -17,7 +18,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_a5ef9035d75073f3cf52bb4f48c6f51f5f286ac4.jpg",
     "areas": "群馬県",
     "lat": "36.66267650000002",
-    "lng": "138.85541939999996"
+    "lng": "138.85541939999996",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/2.csv"
   },
   {
     "jhno": "3",
@@ -27,7 +29,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_bbc6ab25ce39de0faf6e377b1e7f1c50165fcc94.jpg",
     "areas": "富山県",
     "lat": "36.735622199999995",
-    "lng": "137.01046819999988"
+    "lng": "137.01046819999988",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/3.csv"
   },
   {
     "jhno": "4",
@@ -37,7 +40,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_aa38399e336509eae275b5013f5e91f3806d30ed.jpg",
     "areas": "石川県",
     "lat": "37.13568680000003",
-    "lng": "136.99907400000006"
+    "lng": "136.99907400000006",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/4.csv"
   },
   {
     "jhno": "5",
@@ -47,7 +51,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_f07f898cc9870e905ecc04f925fffc67f560cb3d.jpg",
     "areas": "福井県",
     "lat": "35.46859330000004",
-    "lng": "135.87306920000003"
+    "lng": "135.87306920000003",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/5.csv"
   },
   {
     "jhno": "6",
@@ -57,7 +62,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/02/20/213x143_ea1e9d427fb5664c32c517a73e421e58_e3c180c40643e2545e3f15ff402b866fbdd8f98c.jpg",
     "areas": "岐阜県",
     "lat": "35.43475321504972",
-    "lng": "136.77876200500182"
+    "lng": "136.77876200500182",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/6.csv"
   },
   {
     "jhno": "7",
@@ -67,7 +73,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/08/213x143_ea1e9d427fb5664c32c517a73e421e58_a6c78e9e375408b6f8373c8243d314b258af35f1.jpg",
     "areas": "三重県",
     "lat": "34.53853289999999",
-    "lng": "136.61848540000008"
+    "lng": "136.61848540000008",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/7.csv"
   },
   {
     "jhno": "8",
@@ -77,7 +84,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/08/213x143_ea1e9d427fb5664c32c517a73e421e58_5878718a02d84ae5fc78337154c9000e39de8679.jpg",
     "areas": "滋賀県",
     "lat": "35.070463399999994",
-    "lng": "135.8411275"
+    "lng": "135.8411275",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/8.csv"
   },
   {
     "jhno": "9",
@@ -87,7 +95,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_a9b77f8044eeae517345f279eb91df55fc3e3db9.jpg",
     "areas": "京都府",
     "lat": "34.913950142637",
-    "lng": "135.80476490187198"
+    "lng": "135.80476490187198",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/9.csv"
   },
   {
     "jhno": "10",
@@ -97,7 +106,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/10/213x143_ea1e9d427fb5664c32c517a73e421e58_70b8e355eafa4595d317b1f978c48023352790ba.jpg",
     "areas": "兵庫県",
     "lat": "35.07282230000001",
-    "lng": "135.21825179999996"
+    "lng": "135.21825179999996",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/10.csv"
   },
   {
     "jhno": "11",
@@ -107,7 +117,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/10/213x143_ea1e9d427fb5664c32c517a73e421e58_5dae175cd757fe22428b65d260b0a059731b7473.jpg",
     "areas": "奈良県",
     "lat": "34.502434600000015",
-    "lng": "135.80733659999996"
+    "lng": "135.80733659999996",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/11.csv"
   },
   {
     "jhno": "12",
@@ -117,7 +128,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/10/213x143_ea1e9d427fb5664c32c517a73e421e58_b05f9579c53caba7516ca3c2a1d552a3b34f2781.jpg",
     "areas": "鳥取県",
     "lat": "35.3859454",
-    "lng": "133.9635894"
+    "lng": "133.9635894",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/12.csv"
   },
   {
     "jhno": "13",
@@ -127,7 +139,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_a5dddbddb3d52369aeeafa1a65cfe41476dce2b4.jpg",
     "areas": "島根県",
     "lat": "34.46011930000005",
-    "lng": "131.76384540000004"
+    "lng": "131.76384540000004",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/13.csv"
   },
   {
     "jhno": "14",
@@ -137,7 +150,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_19a1161efcb58eaf31cca4eda65f8bddfa7bd53a.jpg",
     "areas": "広島県",
     "lat": "34.41195019999999",
-    "lng": "133.21013719999996"
+    "lng": "133.21013719999996",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/14.csv"
   },
   {
     "jhno": "15",
@@ -147,7 +161,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_fd81fc15a44e55b29404e3c29beecd4eb1944bb9.jpg",
     "areas": "徳島県,香川県,愛媛県,高知県",
     "lat": "34.15941869999998",
-    "lng": "134.50296960000003"
+    "lng": "134.50296960000003",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/15.csv"
   },
   {
     "jhno": "16",
@@ -157,7 +172,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_b8d809b5f0f1184b356cb939c6e65fc054bdb7f9.jpg",
     "areas": "福岡県,佐賀県",
     "lat": "33.51376000000001",
-    "lng": "130.51608199999998"
+    "lng": "130.51608199999998",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/16.csv"
   },
   {
     "jhno": "17",
@@ -167,7 +183,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_79c24dfa5e86274b53e50190feee40d1e8e76665.jpg",
     "areas": "長崎県",
     "lat": "34.30081039999999",
-    "lng": "129.273416"
+    "lng": "129.273416",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/17.csv"
   },
   {
     "jhno": "18",
@@ -177,7 +194,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_80030d1f84b496182a2fb93d2d9a470179f53360.jpg",
     "areas": "熊本県",
     "lat": "32.31376890000005",
-    "lng": "130.61363269999993"
+    "lng": "130.61363269999993",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/18.csv"
   },
   {
     "jhno": "19",
@@ -187,7 +205,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_96ae40e860dcacb7830f26511a7c2e4d51816c74.jpg",
     "areas": "宮城県",
     "lat": "38.255982",
-    "lng": "140.8567792"
+    "lng": "140.8567792",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/19.csv"
   },
   {
     "jhno": "20",
@@ -197,7 +216,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_583512ebf06f15ae4639631bf910ead4e6e0efe7.jpg",
     "areas": "山形県",
     "lat": "38.70247089999999",
-    "lng": "139.98291840000002"
+    "lng": "139.98291840000002",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/20.csv"
   },
   {
     "jhno": "21",
@@ -207,7 +227,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_461f050975b294e3d9c122ba994ef5ad0e9a12b4.jpg",
     "areas": "福島県",
     "lat": "37.567031600000035",
-    "lng": "139.98526100000004"
+    "lng": "139.98526100000004",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/21.csv"
   },
   {
     "jhno": "22",
@@ -217,7 +238,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_fdee44e999c69bf48313d4548419fbdd38050b5a.jpg",
     "areas": "福島県",
     "lat": "37.4827592",
-    "lng": "140.09010309999996"
+    "lng": "140.09010309999996",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/22.csv"
   },
   {
     "jhno": "23",
@@ -227,7 +249,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_9cf9183503730fc117dc037a1aa7d0ba50eab59f.jpg",
     "areas": "千葉県",
     "lat": "35.72199380000002",
-    "lng": "140.21671709999998"
+    "lng": "140.21671709999998",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/23.csv"
   },
   {
     "jhno": "24",
@@ -237,7 +260,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_47a993fc9f42649d9c16ee7c31028cfe20885823.jpg",
     "areas": "神奈川県",
     "lat": "35.4408005",
-    "lng": "139.23116099999993"
+    "lng": "139.23116099999993",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/24.csv"
   },
   {
     "jhno": "25",
@@ -247,7 +271,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_61a066b3fdd8c2868e3125175180d87c8fc9f0eb.jpg",
     "areas": "神奈川県",
     "lat": "35.326097800000014",
-    "lng": "139.5564131"
+    "lng": "139.5564131",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/25.csv"
   },
   {
     "jhno": "26",
@@ -257,7 +282,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_d3396fb1a4c4ca6a2dbfbf688c0624f5ad3eb580.jpg",
     "areas": "新潟県",
     "lat": "37.465683999999996",
-    "lng": "138.84292699999992"
+    "lng": "138.84292699999992",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/26.csv"
   },
   {
     "jhno": "27",
@@ -267,7 +293,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_4fc405ede8a6249db4ccb5c4ecb5ca9908ff532b.jpg",
     "areas": "石川県",
     "lat": "36.297896670932424",
-    "lng": "136.4237204391479"
+    "lng": "136.4237204391479",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/27.csv"
   },
   {
     "jhno": "28",
@@ -277,7 +304,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_e716d2808485d4d434ae4c1697f369c65deb84ce.jpg",
     "areas": "長野県,岐阜県",
     "lat": "35.963423199999994",
-    "lng": "137.80868169999997"
+    "lng": "137.80868169999997",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/28.csv"
   },
   {
     "jhno": "29",
@@ -287,7 +315,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_e9a91443eaaa7d093061d7b29b7bf36269a98825.jpg",
     "areas": "岐阜県",
     "lat": "36.207611497809026",
-    "lng": "137.22480801117706"
+    "lng": "137.22480801117706",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/29.csv"
   },
   {
     "jhno": "30",
@@ -297,7 +326,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_70e5e205a79eea199be1634c5040ff40d1ec1e8f.jpg",
     "areas": "兵庫県",
     "lat": "34.31626000000002",
-    "lng": "134.73413400000004"
+    "lng": "134.73413400000004",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/30.csv"
   },
   {
     "jhno": "31",
@@ -307,7 +337,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_aaa993fab35ffff4bcc6c0cbd4a77da3b2a44b3f.jpg",
     "areas": "奈良県",
     "lat": "34.3683744",
-    "lng": "135.858839"
+    "lng": "135.858839",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/31.csv"
   },
   {
     "jhno": "32",
@@ -317,7 +348,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_6666f394ff22bd61baba3c069665f836f3bf54ad.jpg",
     "areas": "和歌山県",
     "lat": "33.50444700000003",
-    "lng": "135.82562800000005"
+    "lng": "135.82562800000005",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/32.csv"
   },
   {
     "jhno": "33",
@@ -327,7 +359,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_ebe79a58a021f81b058ec1043103bcfe6af14264.jpg",
     "areas": "鳥取県",
     "lat": "35.370833299999994",
-    "lng": "133.53916660000004"
+    "lng": "133.53916660000004",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/33.csv"
   },
   {
     "jhno": "34",
@@ -337,7 +370,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_4c3d1bc6a84db82a590a1010f9ecc1cbdfb4a7f0.jpg",
     "areas": "島根県",
     "lat": "35.18508522509782",
-    "lng": "132.85142216145027"
+    "lng": "132.85142216145027",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/34.csv"
   },
   {
     "jhno": "35",
@@ -347,7 +381,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_b36dbd70c6cc1248cdec63d64d8c91d13dec48d1.jpg",
     "areas": "神奈川県,京都府,広島県,長崎県",
     "lat": "35.284689982723066",
-    "lng": "139.66578978933023"
+    "lng": "139.66578978933023",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/35.csv"
   },
   {
     "jhno": "36",
@@ -357,7 +392,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_8c2ec7df87e553022a100b1f967b64ff9deb3598.jpg",
     "areas": "広島県,愛媛県",
     "lat": "34.23832121773373",
-    "lng": "133.01365174713135"
+    "lng": "133.01365174713135",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/36.csv"
   },
   {
     "jhno": "37",
@@ -367,7 +403,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_805490bd7286b4006f73e9c34fc46404da032f8e.jpg",
     "areas": "佐賀県,長崎県",
     "lat": "33.181177200000015",
-    "lng": "129.867661"
+    "lng": "129.867661",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/37.csv"
   },
   {
     "jhno": "38",
@@ -377,7 +414,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_6a7d2212d583c6a10e4d9a5104599d51efd2e16c.jpg",
     "areas": "北海道",
     "lat": "41.8692269",
-    "lng": "140.1275272"
+    "lng": "140.1275272",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/38.csv"
   },
   {
     "jhno": "39",
@@ -385,7 +423,8 @@
     "name": "荒波を越えた男たちの夢が紡いだ異空間",
     "subname": "～北前船寄港地・船主集落～",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_69958c110809e81dec5f315a3227366cf728f035.jpg",
-    "areas": "北海道,青森県,秋田県,山形県,新潟県,富山県,石川県,福井県,京都府,大阪府,兵庫県,鳥取県,島根県,岡山県,広島県,香川県"
+    "areas": "北海道,青森県,秋田県,山形県,新潟県,富山県,石川県,福井県,京都府,大阪府,兵庫県,鳥取県,島根県,岡山県,広島県,香川県",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/39.csv"
   },
   {
     "jhno": "40",
@@ -395,7 +434,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/10/24/213x143_ea1e9d427fb5664c32c517a73e421e58_0f68c51ce010ceaa6604ad6f633289c255f01762.jpg",
     "areas": "山形県",
     "lat": "38.7003206",
-    "lng": "139.8865604"
+    "lng": "139.8865604",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/40.csv"
   },
   {
     "jhno": "41",
@@ -405,7 +445,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_82967f07f526baedc6e7b5a88ef39b1259f19f27.jpg",
     "areas": "埼玉県",
     "lat": "36.1278292",
-    "lng": "139.4799694"
+    "lng": "139.4799694",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/41.csv"
   },
   {
     "jhno": "42",
@@ -413,7 +454,8 @@
     "name": "忍びの里　伊賀・甲賀",
     "subname": "─リアル忍者を求めて─",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_9384067a28c0c43778a8cb7c804b771bf3358208.jpg",
-    "areas": "三重県,滋賀県"
+    "areas": "三重県,滋賀県",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/42.csv"
   },
   {
     "jhno": "43",
@@ -423,7 +465,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_1ea3a61931bec9dca07f832a0c034b377ef4a406.jpg",
     "areas": "京都府",
     "lat": "35.67628238033261",
-    "lng": "135.08263293849086"
+    "lng": "135.08263293849086",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/43.csv"
   },
   {
     "jhno": "44",
@@ -433,7 +476,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_b60f35d6b337f5da2c0ff4ed4c83e93f2d581de7.jpg",
     "areas": "大阪府,奈良県",
     "lat": "34.678707122802734",
-    "lng": "135.52635192871094"
+    "lng": "135.52635192871094",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/44.csv"
   },
   {
     "jhno": "45",
@@ -443,7 +487,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_ea6c11f628839e26115b368ffc29d5ed8a9467a8.jpg",
     "areas": "兵庫県",
     "lat": "34.8662148",
-    "lng": "134.7317946"
+    "lng": "134.7317946",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/45.csv"
   },
   {
     "jhno": "46",
@@ -451,7 +496,8 @@
     "name": "絶景の宝庫 和歌の浦",
     "subname": "",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/05/15/213x143_ea1e9d427fb5664c32c517a73e421e58_1d63fbe34f38aed8cef403e7eaf3c3c6b4122a81.jpg",
-    "areas": "和歌山県"
+    "areas": "和歌山県",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/46.csv"
   },
   {
     "jhno": "47",
@@ -459,7 +505,8 @@
     "name": "「最初の一滴」醤油醸造の発祥の地 紀州湯浅",
     "subname": "",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_f6b660d377f301f1e0b384684141852731c749a7.jpg",
-    "areas": "和歌山県"
+    "areas": "和歌山県",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/47.csv"
   },
   {
     "jhno": "48",
@@ -469,7 +516,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_140b8ef99e8c937216760ed69ea2eb1bcf6e1c53.jpg",
     "areas": "島根県",
     "lat": "35.30077475777481",
-    "lng": "132.63884299418942"
+    "lng": "132.63884299418942",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/48.csv"
   },
   {
     "jhno": "49",
@@ -479,7 +527,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_346ea9bb934db4921a85e5586164c744f28db730.jpg",
     "areas": "岡山県",
     "lat": "34.5957392",
-    "lng": "133.7717651"
+    "lng": "133.7717651",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/49.csv"
   },
   {
     "jhno": "50",
@@ -489,7 +538,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_c9c35a761cffe725815478cd2096ae3b6076d897.jpg",
     "areas": "福井県,愛知県,滋賀県,兵庫県,岡山県",
     "lat": "35.9521625",
-    "lng": "136.0611399"
+    "lng": "136.0611399",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/50.csv"
   },
   {
     "jhno": "51",
@@ -499,7 +549,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_6323524b8e04ca04a7aa98688ffcf485415220f0.jpg",
     "areas": "高知県",
     "lat": "33.5572504",
-    "lng": "134.148291"
+    "lng": "134.148291",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/51.csv"
   },
   {
     "jhno": "52",
@@ -507,7 +558,8 @@
     "name": "関門“ノスタルジック”海峡",
     "subname": "～時の停車場、近代化の記憶～",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_7a545495e70ab54648e68eb24ad5a8678547f633.jpg",
-    "areas": "山口県,福岡県"
+    "areas": "山口県,福岡県",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/52.csv"
   },
   {
     "jhno": "53",
@@ -517,7 +569,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_e16cebab2978b042005e1a290d71caa1ddaccfd2.jpg",
     "areas": "熊本県",
     "lat": "33.01198510518725",
-    "lng": "130.67995599999995"
+    "lng": "130.67995599999995",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/53.csv"
   },
   {
     "jhno": "54",
@@ -527,7 +580,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/09/213x143_ea1e9d427fb5664c32c517a73e421e58_d757e534fb5125b1cd50bb0e369125228b47f7b7.jpg",
     "areas": "大分県",
     "lat": "33.4998128",
-    "lng": "131.1714769"
+    "lng": "131.1714769",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/54.csv"
   },
   {
     "jhno": "55",
@@ -537,7 +591,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/10/213x143_ea1e9d427fb5664c32c517a73e421e58_2f37a1dfc453bc82993feb66ae5db759b4c76182.jpg",
     "areas": "北海道",
     "lat": "43.72663025478272",
-    "lng": "142.1777552267688"
+    "lng": "142.1777552267688",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/55.csv"
   },
   {
     "jhno": "56",
@@ -547,7 +602,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/10/213x143_ea1e9d427fb5664c32c517a73e421e58_ee4509b3304b218900ed0abd5a551e51c9adadfb.jpg",
     "areas": "山形県",
     "lat": "38.31240573847075",
-    "lng": "140.4361463163193"
+    "lng": "140.4361463163193",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/56.csv"
   },
   {
     "jhno": "57",
@@ -557,7 +613,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/10/213x143_ea1e9d427fb5664c32c517a73e421e58_4dfbf5a5c3fafc9f37fcb4ced0d13b2ee742fbaf.jpg",
     "areas": "栃木県",
     "lat": "36.606558589787355",
-    "lng": "139.7966524555477"
+    "lng": "139.7966524555477",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/57.csv"
   },
   {
     "jhno": "58",
@@ -567,7 +624,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/10/213x143_ea1e9d427fb5664c32c517a73e421e58_3f29155e8226e0b86873f35bdda403d8b4586902.jpg",
     "areas": "栃木県",
     "lat": "37.0088750792695",
-    "lng": "139.96226190183108"
+    "lng": "139.96226190183108",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/58.csv"
   },
   {
     "jhno": "59",
@@ -577,7 +635,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_260d3bad69779cc37181418cf08a14b6b9c66a18.jpg",
     "areas": "富山県",
     "lat": "36.56014556985623",
-    "lng": "136.97078504066383"
+    "lng": "136.97078504066383",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/59.csv"
   },
   {
     "jhno": "60",
@@ -587,7 +646,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_a5f8134f217de3cbaeeb11ec16d4fb37a676cdc8.jpg",
     "areas": "山梨県",
     "lat": "35.6570549",
-    "lng": "138.7430485"
+    "lng": "138.7430485",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/60.csv"
   },
   {
     "jhno": "61",
@@ -597,7 +657,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_837101353838a5ad1d84ca936e1891e4b8da1457.jpg",
     "areas": "山梨県,長野県",
     "lat": "35.59798578502878",
-    "lng": "138.57509681663817"
+    "lng": "138.57509681663817",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/61.csv"
   },
   {
     "jhno": "62",
@@ -607,7 +668,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_df98c7070a944f13d489b92f855f7ad4b45b61c7.jpg",
     "areas": "神奈川県,静岡県",
     "lat": "35.25094929999999",
-    "lng": "139.1535136"
+    "lng": "139.1535136",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/62.csv"
   },
   {
     "jhno": "63",
@@ -617,7 +679,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_35cdbe3c6049e343bfc4a7f1cedd383456ccaff6.jpg",
     "areas": "和歌山県",
     "lat": "34.01817749967374",
-    "lng": "135.13614765224656"
+    "lng": "135.13614765224656",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/63.csv"
   },
   {
     "jhno": "64",
@@ -627,7 +690,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_75eb7dc911e3bd6313e7b7fc5f42e6e8cd6c267d.jpg",
     "areas": "岡山県",
     "lat": "34.72735339022505",
-    "lng": "133.75788649332958"
+    "lng": "133.75788649332958",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/64.csv"
   },
   {
     "jhno": "65",
@@ -637,7 +701,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_0104a69b2ece4cbb1383a08f780fac742e24c196.jpg",
     "areas": "広島県",
     "lat": "34.382807611655196",
-    "lng": "133.38042954846264"
+    "lng": "133.38042954846264",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/65.csv"
   },
   {
     "jhno": "66",
@@ -647,7 +712,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_4f575a3834492c04420fa91d78193c38c24a2404.jpg",
     "areas": "大分県",
     "lat": "33.47981903175635",
-    "lng": "131.52087528985294"
+    "lng": "131.52087528985294",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/66.csv"
   },
   {
     "jhno": "67",
@@ -657,7 +723,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_477d3b11b9c8b794b785b9d73faa6c752093e41a.jpg",
     "areas": "宮崎県",
     "lat": "32.123311819910455",
-    "lng": "131.38396285818567"
+    "lng": "131.38396285818567",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/67.csv"
   },
   {
     "jhno": "68",
@@ -667,7 +734,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_4462195b91b579d04a6b8917e93cf4c85f8c4e6f.jpg",
     "areas": "北海道",
     "lat": "43.54855555555561",
-    "lng": "142.0688055555555"
+    "lng": "142.0688055555555",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/68.csv"
   },
   {
     "jhno": "69",
@@ -677,7 +745,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_89042d1c4e233339d521c30152f0add1f7279c9b.jpg",
     "areas": "岩手県,宮城県",
     "lat": "38.82674119999999",
-    "lng": "141.60271119999993"
+    "lng": "141.60271119999993",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/69.csv"
   },
   {
     "jhno": "70",
@@ -687,7 +756,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_84f20665fa1651b4eb3684615648bca329d58bc9.jpg",
     "areas": "群馬県",
     "lat": "36.225713299999995",
-    "lng": "139.53356810000002"
+    "lng": "139.53356810000002",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/70.csv"
   },
   {
     "jhno": "71",
@@ -697,7 +767,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_703ce1e22d6753c4188f625c480e3112fa180f1a.jpg",
     "areas": "福井県",
     "lat": "35.99946330000003",
-    "lng": "136.29593220000004"
+    "lng": "136.29593220000004",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/71.csv"
   },
   {
     "jhno": "72",
@@ -707,7 +778,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_3c1455f198002832dbde41c6057bc7854b0b5073.jpg",
     "areas": "愛知県",
     "lat": "35.06680555555555",
-    "lng": "136.97058333333337"
+    "lng": "136.97058333333337",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/72.csv"
   },
   {
     "jhno": "73",
@@ -717,7 +789,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_80dd9b851ce01f64b0ca3061f41245bff9eb3a56.jpg",
     "areas": "三重県",
     "lat": "34.435304899999984",
-    "lng": "136.89798689999998"
+    "lng": "136.89798689999998",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/73.csv"
   },
   {
     "jhno": "74",
@@ -727,7 +800,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_2146c7f72e22ad1c07d043971ae9d23ea0a67884.jpg",
     "areas": "岐阜県,滋賀県,京都府,大阪府,兵庫県,奈良県,和歌山県",
     "lat": "33.669150700000024",
-    "lng": "135.88984660000005"
+    "lng": "135.88984660000005",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/74.csv"
   },
   {
     "jhno": "75",
@@ -735,7 +809,8 @@
     "name": "旅引付と二枚の絵図が伝えるまち",
     "subname": "―中世日根荘の風景―",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_a9c386ebb9162d4a980d8c1ce2749294c3be6e83.jpg",
-    "areas": "大阪府"
+    "areas": "大阪府",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/75.csv"
   },
   {
     "jhno": "76",
@@ -745,7 +820,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_c89b41982ef2f82871fef5717bf6f667153d2877.jpg",
     "areas": "大阪府",
     "lat": "34.43738849999998",
-    "lng": "135.59859919999997"
+    "lng": "135.59859919999997",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/76.csv"
   },
   {
     "jhno": "77",
@@ -755,7 +831,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/01/12/213x143_ea1e9d427fb5664c32c517a73e421e58_7092c9e6e4deba04f2bbc2f90c4ae570aa876924.jpg",
     "areas": "兵庫県",
     "lat": "34.74986360000001",
-    "lng": "134.38231099999996"
+    "lng": "134.38231099999996",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/77.csv"
   },
   {
     "jhno": "78",
@@ -765,7 +842,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_5d11e0c98adb914b0bd0fa1351fb7b5a7668ddd2.jpg",
     "areas": "兵庫県,鳥取県",
     "lat": "35.54072310000001",
-    "lng": "134.2290706"
+    "lng": "134.2290706",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/78.csv"
   },
   {
     "jhno": "79",
@@ -775,7 +853,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_ce8f2486eecdfd95a0ec6aad2959f8815f834d97.jpg",
     "areas": "島根県",
     "lat": "34.895709",
-    "lng": "132.0684685"
+    "lng": "132.0684685",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/79.csv"
   },
   {
     "jhno": "80",
@@ -785,7 +864,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_43ac628c5b2f42f9412eb37e8c45d692693f7787.jpg",
     "areas": "岡山県,香川県",
     "lat": "34.50606340000001",
-    "lng": "134.348933"
+    "lng": "134.348933",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/80.csv"
   },
   {
     "jhno": "81",
@@ -795,7 +875,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_b95b84d0ddeaf4c716a8ac227047351aeb2071d2.jpg",
     "areas": "徳島県",
     "lat": "34.090202000000005",
-    "lng": "134.44647599999996"
+    "lng": "134.44647599999996",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/81.csv"
   },
   {
     "jhno": "82",
@@ -805,7 +886,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_9216d782d6a898cddb5d957587e12a3dd318b1e0.jpg",
     "areas": "鹿児島県",
     "lat": "31.59714709999998",
-    "lng": "130.550435"
+    "lng": "130.550435",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/82.csv"
   },
   {
     "jhno": "83",
@@ -815,7 +897,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_2744981563091923e60366d04a98ecdafec1ef08.jpg",
     "areas": "沖縄県",
     "lat": "26.258738917104182",
-    "lng": "127.7223890398521"
+    "lng": "127.7223890398521",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/83.csv"
   },
   {
     "jhno": "84",
@@ -825,7 +908,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_04f006c6b03d895185a489075b3785c96c912899.jpg",
     "areas": "北海道",
     "lat": "43.60320349999999",
-    "lng": "145.292818"
+    "lng": "145.292818",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/84.csv"
   },
   {
     "jhno": "85",
@@ -835,7 +919,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/12/07/213x143_ea1e9d427fb5664c32c517a73e421e58_a54f1661882e11cfc36e5850f030253a356f09b4.jpg",
     "areas": "岩手県",
     "lat": "40.1961",
-    "lng": "141.18416"
+    "lng": "141.18416",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/85.csv"
   },
   {
     "jhno": "86",
@@ -845,7 +930,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_fed21eb21a0701070a16c5e7a6dd57fc84185142.jpg",
     "areas": "茨城県,山梨県",
     "lat": "35.659178000000004",
-    "lng": "138.72356089999997"
+    "lng": "138.72356089999997",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/86.csv"
   },
   {
     "jhno": "87",
@@ -855,7 +941,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_07786362d81a5a7af07d1485fa8341b9da2b257a.jpg",
     "areas": "茨城県,栃木県",
     "lat": "36.29359531953517",
-    "lng": "139.80524528320313"
+    "lng": "139.80524528320313",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/87.csv"
   },
   {
     "jhno": "88",
@@ -865,7 +952,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_23742d95ea0ed9657de5b4c6096fd42433e57c14.jpg",
     "areas": "東京都",
     "lat": "35.65576110000003",
-    "lng": "139.26162779999999"
+    "lng": "139.26162779999999",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/88.csv"
   },
   {
     "jhno": "89",
@@ -875,7 +963,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_8a41153513828ab852efe4930bd321d3fa5335dd.jpg",
     "areas": "新潟県",
     "lat": "37.14092950000003",
-    "lng": "138.75683050000004"
+    "lng": "138.75683050000004",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/89.csv"
   },
   {
     "jhno": "90",
@@ -885,7 +974,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/01/13/213x143_ea1e9d427fb5664c32c517a73e421e58_db8c2936d30fe1d158c29464f515d373e47b1eb2.jpg",
     "areas": "福井県,滋賀県",
     "lat": "35.605654800000025",
-    "lng": "136.172398"
+    "lng": "136.172398",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/90.csv"
   },
   {
     "jhno": "91",
@@ -895,7 +985,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_444ccdab01a01c060d5971da02bebd0bb99a03df.jpg",
     "areas": "山梨県",
     "lat": "35.74548649999999",
-    "lng": "138.56763329999998"
+    "lng": "138.56763329999998",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/91.csv"
   },
   {
     "jhno": "92",
@@ -905,7 +996,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_b30537baa866eb5ac548f63aca559acaf3e53aeb.jpg",
     "areas": "長野県",
     "lat": "36.50465",
-    "lng": "138.09542"
+    "lng": "138.09542",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/92.csv"
   },
   {
     "jhno": "93",
@@ -915,7 +1007,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_ca5f79752e1c34be4c7754c3bd47f34a7bea4b69.jpg",
     "areas": "長野県",
     "lat": "36.352385",
-    "lng": "138.1522837"
+    "lng": "138.1522837",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/93.csv"
   },
   {
     "jhno": "94",
@@ -925,7 +1018,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_e67069f42597e8062fd25919b8f34556f6e74c99.jpg",
     "areas": "静岡県",
     "lat": "35.12004950000001",
-    "lng": "138.60554370000003"
+    "lng": "138.60554370000003",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/94.csv"
   },
   {
     "jhno": "95",
@@ -935,7 +1029,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_52fb12a39849628320bbb1c6b9bc592ad6b0b0f4.jpg",
     "areas": "滋賀県,京都府",
     "lat": "35.01232150479418",
-    "lng": "135.85788255000006"
+    "lng": "135.85788255000006",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/95.csv"
   },
   {
     "jhno": "96",
@@ -945,7 +1040,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_7fc83b0a8b559750203b15804abad769b0502a16.jpg",
     "areas": "大阪府,奈良県,和歌山県",
     "lat": "34.537875699999994",
-    "lng": "136.0406048"
+    "lng": "136.0406048",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/96.csv"
   },
   {
     "jhno": "97",
@@ -955,7 +1051,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_1a8b65be69f8bb0032f739bf2b5ad15d027b633c.jpg",
     "areas": "兵庫県",
     "lat": "34.7850175",
-    "lng": "135.401575"
+    "lng": "135.401575",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/97.csv"
   },
   {
     "jhno": "98",
@@ -965,7 +1062,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_c28492d0d6158c2263614b67b5b9dba783fa7db8.jpg",
     "areas": "大阪府,奈良県",
     "lat": "34.580708300000005",
-    "lng": "135.67369349999998"
+    "lng": "135.67369349999998",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/98.csv"
   },
   {
     "jhno": "99",
@@ -975,7 +1073,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_a1f5f5f244fe879ad4fb863534c58afa4a3230a3.jpg",
     "areas": "大阪府,奈良県,和歌山県",
     "lat": "34.29122259999999",
-    "lng": "135.0260583"
+    "lng": "135.0260583",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/99.csv"
   },
   {
     "jhno": "100",
@@ -985,7 +1084,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_06573ed02b24faa1f2ba4f7c0376ec7e99a0de16.jpg",
     "areas": "島根県",
     "lat": "34.70124839999999",
-    "lng": "131.84004629999998"
+    "lng": "131.84004629999998",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/100.csv"
   },
   {
     "jhno": "101",
@@ -995,7 +1095,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_cff8a01c040cbc8c7050e83b850cce49d69e9a22.jpg",
     "areas": "島根県",
     "lat": "35.1767959",
-    "lng": "132.5998544"
+    "lng": "132.5998544",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/101.csv"
   },
   {
     "jhno": "102",
@@ -1005,7 +1106,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_4fc1c6c1c05151133abd99cbe85f4a06a40a34a1.jpg",
     "areas": "岡山県",
     "lat": "34.86161770000001",
-    "lng": "133.4698019"
+    "lng": "133.4698019",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/102.csv"
   },
   {
     "jhno": "103",
@@ -1015,7 +1117,8 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_0eb19b063cba0b6abe5acaa7ac1e107ef0ea7c98.jpg",
     "areas": "福岡県,佐賀県,長崎県",
     "lat": "33.254738400000015",
-    "lng": "130.30293"
+    "lng": "130.30293",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/103.csv"
   },
   {
     "jhno": "104",
@@ -1025,6 +1128,7 @@
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2022/08/12/213x143_ea1e9d427fb5664c32c517a73e421e58_4b3920917939e009053bee224981603bf657e8d0.jpg",
     "areas": "熊本県",
     "lat": "32.471943199999984",
-    "lng": "130.5692888"
+    "lng": "130.5692888",
+    "url_props": "https://code4fukui.github.io/japan-heritage/japan-heritage_props_detail/104.csv"
   }
 ]

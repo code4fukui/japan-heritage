@@ -28,9 +28,11 @@
   ```deno run -A scrape-properties.js``` → japan-heritage_props.csv
 3. 構成文化財詳細取得
   ```deno run -A scrape-properties-detail.js``` → japan-heritage_props_detail.csv
-4. 構成文化財から位置情報を付与
+5. 構成文化財を日本遺産別に分割
+  ```deno run -A make-props_detail_each.js``` → japan-heritage_props_detail/
+6. 構成文化財から位置情報と構成文化財URLを付与
   ```deno run -A make-withpos.js``` → japan-heritage_withpos.csv
-5. お知らせ一覧取得
+7. お知らせ一覧取得
   ```deno run -A scrape-news.js``` → japan-heritage_news.csv
 
 ## src 出典
