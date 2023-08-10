@@ -18381,7 +18381,7 @@
   },
   {
     "day": "2023-08-09",
-    "jhno": 68,
+    "jhno": "68",
     "type": "イベント",
     "title": "【北海道岩見沢市】ぷらぷらまち歩き「万字ズリ山ハイキング」",
     "description": "8月11日（金祝）は山の日！万字のズリ山に登りませんか？",
@@ -18391,7 +18391,7 @@
   },
   {
     "day": "2023-08-09",
-    "jhno": 68,
+    "jhno": "68",
     "type": "イベント",
     "title": "【北海道三笠市】奔別炭鉱ゲート開放！",
     "description": "8月13日(日)～15日(火)は奔別炭鉱の敷地に入る事ができるゲート開放日です！",
@@ -18401,12 +18401,52 @@
   },
   {
     "day": "2023-08-09",
-    "jhno": 78,
+    "jhno": "78",
     "type": "メディア",
     "title": "土曜夜市に麒麟獅子が舞いおりる！！【鳥取本通商店街】",
     "description": "",
     "areas": "鳥取県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3179/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/09/328x181_ea1e9d427fb5664c32c517a73e421e58_19f202a71d76b35e77f60b27a940f333cca0597c.jpg"
+  },
+  {
+    "day": "2023-08-10",
+    "jhno": 66,
+    "type": "その他",
+    "title": "別府大学の学生と田染荘の未来を考える授業を行っています！",
+    "description": "別府大学の学生たちが授業の一環で田染荘を訪れ、観光に関する現状や地域おこしに関する現状、文化財保存に関する現状を知る授業を行いました。",
+    "areas": "大分県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3138/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/07/31/328x181_ea1e9d427fb5664c32c517a73e421e58_ca65ba110554428ea10e903aeb37d36a53c0d4a0.jpg"
+  },
+  {
+    "day": "2023-08-10",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "【北海道夕張市】旧夕張市美術館収蔵作品展2023開催中！",
+    "description": "炭鉱を描いた作品が並ぶ夕張市美術館の収蔵作品展を<拠点複合施設りすた>で展示しています。",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3175/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/09/328x181_ea1e9d427fb5664c32c517a73e421e58_bb2935f0be6a2670418fc42cc17b8cfba032bfbd.jpg"
+  },
+  {
+    "day": "2023-08-10",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "【北海道安平町】「道の駅あびら周辺で炭鉄港を満喫！鉄分補給ガイドツアー」を開催します",
+    "description": "ガイド付きミニツアー第２弾！JRヘルシーウォーキング「追分ウォーク」に合わせ「道の駅あびら周辺で炭鉄港を満喫！鉄分補給ガイドツアー」を開催します。",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3189/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/10/328x181_ea1e9d427fb5664c32c517a73e421e58_e443645cf03307a1ddc6e23ff864047025d97bc8.png"
+  },
+  {
+    "day": "2023-08-10",
+    "jhno": 87,
+    "type": "その他",
+    "title": "【笠間焼誕生250年記念】笠間焼サブスクリプションサービス",
+    "description": "笠間焼作家の和食器を定額で利用できます",
+    "areas": "茨城県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3190/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/10/328x181_ea1e9d427fb5664c32c517a73e421e58_9f6f17e2c271e00e0defea2b7e1380403bba234a.jpg"
   }
 ]
