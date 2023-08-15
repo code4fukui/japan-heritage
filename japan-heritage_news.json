@@ -18451,12 +18451,22 @@
   },
   {
     "day": "2023-08-14",
-    "jhno": 58,
+    "jhno": "58",
     "type": "イベント",
     "title": "那須野が原　旅する日本遺産　デジタルスタンプラリー開催！",
     "description": "認定ストーリーや構成文化財の魅力を多くの人に知ってもらうため、デジタルスタンプラリーを開催します！",
     "areas": "栃木県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3191/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/14/328x181_ea1e9d427fb5664c32c517a73e421e58_8ccea8b50b5cb4277302ea6fb9bb5ebc45c7a898.png"
+  },
+  {
+    "day": "2023-08-15",
+    "jhno": 52,
+    "type": "イベント",
+    "title": "しもまちスタンプラリー2023開催中！！六連島へ行ってみませんか",
+    "description": "【しもまちスタンプラリー2023】開催中です！",
+    "areas": "山口県,福岡県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3193/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/15/328x181_ea1e9d427fb5664c32c517a73e421e58_b88a9dd7409d4d1b0d59321cad7642ff88f35649.jpg"
   }
 ]
