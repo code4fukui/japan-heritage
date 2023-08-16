@@ -18461,12 +18461,32 @@
   },
   {
     "day": "2023-08-15",
-    "jhno": 52,
+    "jhno": "52",
     "type": "イベント",
     "title": "しもまちスタンプラリー2023開催中！！六連島へ行ってみませんか",
     "description": "【しもまちスタンプラリー2023】開催中です！",
     "areas": "山口県,福岡県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3193/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/15/328x181_ea1e9d427fb5664c32c517a73e421e58_b88a9dd7409d4d1b0d59321cad7642ff88f35649.jpg"
+  },
+  {
+    "day": "2023-08-16",
+    "jhno": 68,
+    "type": "メディア",
+    "title": "【北海道】ローカルプラットフォーム「Sitakke」に炭鉄港が紹介されました！",
+    "description": "北海道で暮らす女性たちの「前向きな一歩」につながる情報をお届けするローカルプラットホーム「Sitakke」に炭鉄港が紹介されました！",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3197/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/16/328x181_ea1e9d427fb5664c32c517a73e421e58_f55e8d92cb0b24bae887da5e17279bf6674f34f4.jpg"
+  },
+  {
+    "day": "2023-08-16",
+    "jhno": 65,
+    "type": "イベント",
+    "title": "「鞆の津　八朔の馬出し」のお知らせ",
+    "description": "\r\n",
+    "areas": "広島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3201/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/16/328x181_ea1e9d427fb5664c32c517a73e421e58_b0e796ec127d6ef4a79fe22a83272915f20ab49e.jpg"
   }
 ]
