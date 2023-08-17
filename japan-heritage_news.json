@@ -18471,7 +18471,7 @@
   },
   {
     "day": "2023-08-16",
-    "jhno": 68,
+    "jhno": "68",
     "type": "メディア",
     "title": "【北海道】ローカルプラットフォーム「Sitakke」に炭鉄港が紹介されました！",
     "description": "北海道で暮らす女性たちの「前向きな一歩」につながる情報をお届けするローカルプラットホーム「Sitakke」に炭鉄港が紹介されました！",
@@ -18481,12 +18481,32 @@
   },
   {
     "day": "2023-08-16",
-    "jhno": 65,
+    "jhno": "65",
     "type": "イベント",
     "title": "「鞆の津　八朔の馬出し」のお知らせ",
-    "description": "\r\n",
+    "description": "\n",
     "areas": "広島県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3201/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/16/328x181_ea1e9d427fb5664c32c517a73e421e58_b0e796ec127d6ef4a79fe22a83272915f20ab49e.jpg"
+  },
+  {
+    "day": "2023-08-17",
+    "jhno": 1,
+    "type": "イベント",
+    "title": "〈足利市〉関東地域の「日本遺産」大集結！　に出展中です",
+    "description": "〈足利市〉関東地域の「日本遺産」大集結！　に出展中です",
+    "areas": "栃木県,群馬県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3192/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/15/328x181_ea1e9d427fb5664c32c517a73e421e58_21fc01997781ba7b77b913a0ac11a0949da1aa00.jpg"
+  },
+  {
+    "day": "2023-08-17",
+    "jhno": 1,
+    "type": "その他",
+    "title": "〈日田市〉令和5年度　日本遺産公開講座　「日本遺産を歩く」　第2講を開催しました",
+    "description": "",
+    "areas": "大分県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3206/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/17/328x181_ea1e9d427fb5664c32c517a73e421e58_df792e8b477cc3cf338ff3f882828a71071bad59.jpg"
   }
 ]
