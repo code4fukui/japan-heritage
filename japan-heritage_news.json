@@ -18491,7 +18491,7 @@
   },
   {
     "day": "2023-08-17",
-    "jhno": 1,
+    "jhno": "1",
     "type": "イベント",
     "title": "〈足利市〉関東地域の「日本遺産」大集結！　に出展中です",
     "description": "〈足利市〉関東地域の「日本遺産」大集結！　に出展中です",
@@ -18501,12 +18501,22 @@
   },
   {
     "day": "2023-08-17",
-    "jhno": 1,
+    "jhno": "1",
     "type": "その他",
     "title": "〈日田市〉令和5年度　日本遺産公開講座　「日本遺産を歩く」　第2講を開催しました",
     "description": "",
     "areas": "大分県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3206/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/17/328x181_ea1e9d427fb5664c32c517a73e421e58_df792e8b477cc3cf338ff3f882828a71071bad59.jpg"
+  },
+  {
+    "day": "2023-08-18",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "【北海道美唄市】美唄鉄道東明駅舎一般公開",
+    "description": "今年のチャンスはあと２回！美唄市教育委員会生涯学習課では、美唄鉄道東明駅舎を一般公開しています。",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3205/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/16/328x181_ea1e9d427fb5664c32c517a73e421e58_1075102b2e1b46011ae15c86651fc13db04f6cfa.jpg"
   }
 ]
