@@ -18631,12 +18631,32 @@
   },
   {
     "day": "2023-08-27",
-    "jhno": 1,
+    "jhno": "1",
     "type": "その他",
     "title": "〈日田市〉日本遺産子どもガイド　第4回研修会を開催しました",
     "description": "",
     "areas": "大分県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3234/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/27/328x181_ea1e9d427fb5664c32c517a73e421e58_4c2f03c958fc17b258ab46db6427a98d3a369bd8.jpg"
+  },
+  {
+    "day": "2023-08-28",
+    "jhno": 66,
+    "type": "その他",
+    "title": "第7回　田染サミットが開催されました！",
+    "description": "8月20日（日）、田染地域の未来を考える会議「田染サミット」が開催され、スローガン「発信から発進へ」のとおり、今までの取り組みをスタートさせるための方法をワークショップで話し合いました。",
+    "areas": "大分県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3212/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/22/328x181_ea1e9d427fb5664c32c517a73e421e58_037cdf776005315c6a3e053e66ef0909c1034b5c.jpg"
+  },
+  {
+    "day": "2023-08-28",
+    "jhno": 1,
+    "type": "イベント",
+    "title": "日本遺産から世界遺産へ！　国際シンポジウム「海外から見た近世日本の教育遺産群」を開催します！",
+    "description": "国際シンポジウム",
+    "areas": "茨城県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3232/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/24/328x181_ea1e9d427fb5664c32c517a73e421e58_b1e3f525a5ce093cb93a8ab955f3294b3bee391c.jpg"
   }
 ]
