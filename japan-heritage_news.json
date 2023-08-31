@@ -18661,12 +18661,52 @@
   },
   {
     "day": "2023-08-30",
-    "jhno": 68,
+    "jhno": "68",
     "type": "イベント",
     "title": "【北海道岩見沢市】「炭鉄港めしフェスタ」in いわみざわ情熱フェスティバル開催！",
     "description": "",
     "areas": "北海道",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3237/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/28/328x181_ea1e9d427fb5664c32c517a73e421e58_64156f4b10142c623043a34cd255feaa6ad7d96f.png"
+  },
+  {
+    "day": "2023-08-31",
+    "jhno": 2,
+    "type": "イベント",
+    "title": "【9月9日】「日本遺産フェスタ＠赤岩ふれあい感謝祭」を開催します！",
+    "description": "「日本遺産フェスタ＠赤岩ふれあい感謝祭」を開催します！",
+    "areas": "群馬県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3238/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/29/328x181_ea1e9d427fb5664c32c517a73e421e58_7d58e143d2fd2f7bbc0944801a4f9680f41efd49.jpg"
+  },
+  {
+    "day": "2023-08-31",
+    "jhno": 12,
+    "type": "その他",
+    "title": "【鳥取県三朝町】台風7号災害に係る寄附受付について",
+    "description": "",
+    "areas": "鳥取県",
+    "url": "http://www.town.misasa.tottori.jp/furusato/archives/3366",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/31/328x181_ea1e9d427fb5664c32c517a73e421e58_32ad351fd667a88860af2ff150230180119d3627.jpg"
+  },
+  {
+    "day": "2023-08-31",
+    "jhno": 1,
+    "type": "その他",
+    "title": "〈日田市〉令和5年度　日本遺産公開講座　「日本遺産を歩く」　第3講を開催しました",
+    "description": "",
+    "areas": "大分県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3241/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/31/328x181_ea1e9d427fb5664c32c517a73e421e58_16cca1ddaf3d07e6d0661e9f49142a6a013d5ffb.jpg"
+  },
+  {
+    "day": "2023-08-31",
+    "jhno": 81,
+    "type": "イベント",
+    "title": "９市町連携パネル展　藍にまつわる地域の人々",
+    "description": "令和５年度も、９つの市町が連携してパネル展を開催します。本年度は、それぞれの市町において阿波藍にゆかりのある人々をご紹介します。「藍にまつわる地域の人々」のストーリーをどうぞご覧ください。",
+    "areas": "徳島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3242/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/08/31/328x181_ea1e9d427fb5664c32c517a73e421e58_f44966378f53d3825ebcab21b9613912ff104cc7.jpg"
   }
 ]
