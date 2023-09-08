@@ -18781,12 +18781,52 @@
   },
   {
     "day": "2023-09-07",
-    "jhno": 20,
+    "jhno": "20",
     "type": "イベント",
     "title": "秋の羽黒古道を歩いてみませんか？【第４回庄内町の小さな旅】",
     "description": "現在、庄内町観光協会が主催する「第４回庄内町の小さな旅　出羽三山「生まれかわりの旅」　羽黒古道を行く」の参加者を募集中です。",
     "areas": "山形県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3250/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/07/328x181_ea1e9d427fb5664c32c517a73e421e58_eef40c163ccc75c539fdb1ee0d199c3aa7d87041.png"
+  },
+  {
+    "day": "2023-09-08",
+    "jhno": 66,
+    "type": "イベント",
+    "title": "田染荘収穫祭が４年ぶりに開催されます！",
+    "description": "「田染荘小崎の農村景観」として重要文化的景観にも選定されている田染小崎地区で、田染荘収穫祭が４年ぶりに開催されます！",
+    "areas": "大分県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3252/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/07/328x181_ea1e9d427fb5664c32c517a73e421e58_908935992f904a6ca06f5a1aaa70f45409ff5ae8.jpg"
+  },
+  {
+    "day": "2023-09-08",
+    "jhno": 97,
+    "type": "イベント",
+    "title": "multi-BASEオープニングイベントで「灘の生一本」有料試飲会開催！",
+    "description": "⼤丸神⼾店前のコンテナハウス「multi-BASE」がオープン！「灘の生一本」の有料試飲会を実施します！",
+    "areas": "兵庫県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3257/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/files/images/home/noimage.jpg"
+  },
+  {
+    "day": "2023-09-08",
+    "jhno": 88,
+    "type": "イベント",
+    "title": "11月4・5日「日本遺産フェスティバル in 桑都・八王子」を開催します！",
+    "description": "東日本で初めての開催です",
+    "areas": "東京都",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3258/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/08/328x181_ea1e9d427fb5664c32c517a73e421e58_f2347bcbd8864822ac1975446ff9693f50fee132.jpg"
+  },
+  {
+    "day": "2023-09-08",
+    "jhno": 76,
+    "type": "メディア",
+    "title": "楠木正成ゆかりの「楠公めし」アレンジレシピを大募集！",
+    "description": "大阪府河内長野市ゆかりの武将・楠木正成公が考案したと伝える「楠公（なんこう）めし」をテーマにしたアレンジレシピを募集します！応募者の中から抽選でクオカードをプレゼント。応募期間：10月9日まで",
+    "areas": "大阪府",
+    "url": "https://www.city.kawachinagano.lg.jp/soshiki/16/87968.html",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/08/328x181_ea1e9d427fb5664c32c517a73e421e58_8a51b737e232ce3a5ef8f475f6f8888571810615.jpg"
   }
 ]
