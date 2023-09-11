@@ -18831,12 +18831,22 @@
   },
   {
     "day": "2023-09-10",
-    "jhno": 1,
+    "jhno": "1",
     "type": "その他",
     "title": "〈日田市〉令和5年度　日本遺産子どもガイド　第5回研修会を開催しました",
     "description": "",
     "areas": "大分県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3262/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/10/328x181_ea1e9d427fb5664c32c517a73e421e58_919ca7887c24df2f170d7d41640336e8b097af9b.jpg"
+  },
+  {
+    "day": "2023-09-11",
+    "jhno": 66,
+    "type": "その他",
+    "title": "「九州沖縄連携」メインビジュアル　制作デザイナー大募集！（9/24締切）",
+    "description": "九州沖縄連携のメインビジュアルを制作するにあたり、デザイナーを募集いたします！",
+    "areas": "福岡県,佐賀県,長崎県,熊本県,大分県,宮崎県,鹿児島県,沖縄県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3264/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/11/328x181_ea1e9d427fb5664c32c517a73e421e58_ad1e84c88b77e22d2b5837840a36f3568bbbbef9.jpg"
   }
 ]
