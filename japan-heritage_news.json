@@ -18841,12 +18841,52 @@
   },
   {
     "day": "2023-09-11",
-    "jhno": 66,
+    "jhno": "66",
     "type": "その他",
     "title": "「九州沖縄連携」メインビジュアル　制作デザイナー大募集！（9/24締切）",
     "description": "九州沖縄連携のメインビジュアルを制作するにあたり、デザイナーを募集いたします！",
     "areas": "福岡県,佐賀県,長崎県,熊本県,大分県,宮崎県,鹿児島県,沖縄県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3264/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/11/328x181_ea1e9d427fb5664c32c517a73e421e58_ad1e84c88b77e22d2b5837840a36f3568bbbbef9.jpg"
+  },
+  {
+    "day": "2023-09-12",
+    "jhno": 1,
+    "type": "イベント",
+    "title": "〈足利市〉史跡足利学校をオレンジカラーでライトアップ「世界アルツハイマー月間」",
+    "description": "〈足利市〉史跡足利学校をオレンジカラーでライトアップ「世界アルツハイマー月間」",
+    "areas": "栃木県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3265/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/12/328x181_ea1e9d427fb5664c32c517a73e421e58_95e6f797f3193ee6ae478fdeec534d56514b1c5c.jpg"
+  },
+  {
+    "day": "2023-09-12",
+    "jhno": 1,
+    "type": "その他",
+    "title": "〈日田市〉令和5年度　日本遺産公開講座　「日本遺産を歩く」　第4講を開催しました",
+    "description": "",
+    "areas": "大分県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3273/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/12/328x181_ea1e9d427fb5664c32c517a73e421e58_47611b89e6071a93e8e9bffe4e4dbd41c9df9770.jpg"
+  },
+  {
+    "day": "2023-09-12",
+    "jhno": 22,
+    "type": "メディア",
+    "title": "【福島県郡山市】自然・文化・食を体験する体験ツアーを開催",
+    "description": "",
+    "areas": "福島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3275/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/12/328x181_ea1e9d427fb5664c32c517a73e421e58_0828c0fe990216a4a60cab7e889aebd8dcd016a6.jpg"
+  },
+  {
+    "day": "2023-09-12",
+    "jhno": 97,
+    "type": "イベント",
+    "title": "SAKENOMIYA COLLECTION 2023開催！",
+    "description": "神戸・三宮センター街で行われる「SANNOMIYA COLLECTION（三宮コレクション）」とのコラボレーション企画第2弾！",
+    "areas": "兵庫県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3278/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/12/328x181_ea1e9d427fb5664c32c517a73e421e58_eedcb716db1523fa564d41605f55a62a1c3d18d1.jpg"
   }
 ]
