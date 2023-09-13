@@ -18851,7 +18851,7 @@
   },
   {
     "day": "2023-09-12",
-    "jhno": 1,
+    "jhno": "1",
     "type": "イベント",
     "title": "〈足利市〉史跡足利学校をオレンジカラーでライトアップ「世界アルツハイマー月間」",
     "description": "〈足利市〉史跡足利学校をオレンジカラーでライトアップ「世界アルツハイマー月間」",
@@ -18861,7 +18861,7 @@
   },
   {
     "day": "2023-09-12",
-    "jhno": 1,
+    "jhno": "1",
     "type": "その他",
     "title": "〈日田市〉令和5年度　日本遺産公開講座　「日本遺産を歩く」　第4講を開催しました",
     "description": "",
@@ -18871,7 +18871,7 @@
   },
   {
     "day": "2023-09-12",
-    "jhno": 22,
+    "jhno": "22",
     "type": "メディア",
     "title": "【福島県郡山市】自然・文化・食を体験する体験ツアーを開催",
     "description": "",
@@ -18881,12 +18881,32 @@
   },
   {
     "day": "2023-09-12",
-    "jhno": 97,
+    "jhno": "97",
     "type": "イベント",
     "title": "SAKENOMIYA COLLECTION 2023開催！",
     "description": "神戸・三宮センター街で行われる「SANNOMIYA COLLECTION（三宮コレクション）」とのコラボレーション企画第2弾！",
     "areas": "兵庫県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3278/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/12/328x181_ea1e9d427fb5664c32c517a73e421e58_eedcb716db1523fa564d41605f55a62a1c3d18d1.jpg"
+  },
+  {
+    "day": "2023-09-13",
+    "jhno": 81,
+    "type": "イベント",
+    "title": "吉野川市文化研修センター藍染講座作品展（令和５年度前期）",
+    "description": "吉野川市文化研修センターで行われている藍染講座の作品展を開催いたします。\r\n〇開催期間　令和5年9月16日（土）～18日（月・祝）午前9時～午後5時\r\n〇会　　場　吉野川市文化研修センター",
+    "areas": "徳島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3280/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/13/328x181_ea1e9d427fb5664c32c517a73e421e58_0af72c1625e8b7a0dee034baedc28b2c9f2b4e23.jpg"
+  },
+  {
+    "day": "2023-09-13",
+    "jhno": 65,
+    "type": "メディア",
+    "title": "潮待ちの町が大いににぎわう3日間",
+    "description": "",
+    "areas": "広島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3285/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/13/328x181_ea1e9d427fb5664c32c517a73e421e58_d4dc0ace7ac0513ff5e0d81b5dfb35ccf4bffab0.jpg"
   }
 ]
