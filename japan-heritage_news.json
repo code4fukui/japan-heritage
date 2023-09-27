@@ -19091,12 +19091,22 @@
   },
   {
     "day": "2023-09-26",
-    "jhno": 52,
+    "jhno": "52",
     "type": "イベント",
     "title": "秋田山荘跡地をめぐるフォトウォークに参加しませんか？",
-    "description": "下関の奥の院　川棚温泉\r\nその川棚温泉を出発し明治後期～昭和にかけ海運業などで富を築いた秋田商会の創業者秋田寅之介が晩年を過ごした別荘跡地などを案内するフォトウォークが開催されます。",
+    "description": "下関の奥の院　川棚温泉\nその川棚温泉を出発し明治後期～昭和にかけ海運業などで富を築いた秋田商会の創業者秋田寅之介が晩年を過ごした別荘跡地などを案内するフォトウォークが開催されます。",
     "areas": "山口県,福岡県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3328/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/26/328x181_ea1e9d427fb5664c32c517a73e421e58_180aec89d8226b550a3a00643baaa9c791b1834b.jpg"
+  },
+  {
+    "day": "2023-09-27",
+    "jhno": 96,
+    "type": "イベント",
+    "title": "日本遺産「女人高野」を巡るデジタルスタンプラリー2023を開催！",
+    "description": "女人高野を巡るデジタルスタンプラリーに参加して、日本遺産を体感してみませんか？\r\n全てのスタンプを集めてアンケートにご回答いただいた方に女人高野オリジナルカレンダーをプレゼント。抽選で各地の特産品も当たります！",
+    "areas": "大阪府,奈良県,和歌山県",
+    "url": "https://www.city.kawachinagano.lg.jp/soshiki/16/89042.html",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/27/328x181_ea1e9d427fb5664c32c517a73e421e58_5a8502dd2716c8965bf34f4f28ecf14fde93971e.png"
   }
 ]
