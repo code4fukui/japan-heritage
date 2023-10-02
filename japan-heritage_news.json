@@ -19151,7 +19151,7 @@
   },
   {
     "day": "2023-10-01",
-    "jhno": 91,
+    "jhno": "91",
     "type": "イベント",
     "title": "【名勝100年記念】昇仙峡短歌コンテストを開催します！",
     "description": "昇仙峡の「名勝100年」、「特別名勝70年」を記念して、昇仙峡の短歌コンテストを開催します。",
@@ -19161,12 +19161,72 @@
   },
   {
     "day": "2023-10-01",
-    "jhno": 96,
+    "jhno": "96",
     "type": "イベント",
     "title": "ピンクリボンデーライトアップ（慈尊院）",
     "description": "「乳がんで悲しむ人をひとりでも減らしたい」との思いから、ライトアップが行われます。",
     "areas": "大阪府,奈良県,和歌山県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3341/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/01/328x181_ea1e9d427fb5664c32c517a73e421e58_f256a88d5dd192a2952fafe2c55fa848e26da354.png"
+  },
+  {
+    "day": "2023-10-02",
+    "jhno": 97,
+    "type": "イベント",
+    "title": "10/21(土) 清酒発祥の地・伊丹 「日本遺産と日本酒を知ろう！味わおう！見よう！」を開催",
+    "description": "10/21(土) 清酒発祥の地・伊丹 「日本遺産と日本酒を知ろう！味わおう！見よう！」を開催",
+    "areas": "兵庫県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3251/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/02/328x181_ea1e9d427fb5664c32c517a73e421e58_ab7b93bb2cc58de707dc787a6705acd3976f7c28.jpg"
+  },
+  {
+    "day": "2023-10-02",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "【北海道美唄市】「乗合タクシーで行く　三菱美唄炭鉱竪坑櫓」を開催します",
+    "description": "ガイド付きミニツアー第４弾！公共交通機関では行きづらい場所に乗合タクシーで気軽に行ける「ガイド付きミニツアー」を開催します。",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3337/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/09/28/328x181_ea1e9d427fb5664c32c517a73e421e58_8ed2c13cb191c5a67f78d6fa82eb263a9f85797b.png"
+  },
+  {
+    "day": "2023-10-02",
+    "jhno": 97,
+    "type": "イベント",
+    "title": "「西宮酒ぐらルネサンスと食フェア2023」が開催！",
+    "description": "秋の一日、秋晴れの日本酒を楽しめる「西宮酒ぐらルネサンスと食フェア」が、10月7日・8日に開催！日本遺産にちなんだ新酒番舩練り歩きも！",
+    "areas": "兵庫県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3339/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/02/328x181_ea1e9d427fb5664c32c517a73e421e58_77625261be782f32527154d26ee097167e5b80a6.jpg"
+  },
+  {
+    "day": "2023-10-02",
+    "jhno": 97,
+    "type": "イベント",
+    "title": "西宮日本酒学校2023を開校！",
+    "description": "西宮の酒蔵エリア一帯をキャンパスに見立て、灘酒の歴史や製法、味わい方、新しい楽しみ方などを、日本酒を味わいながらわかりやすく解説します。",
+    "areas": "兵庫県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3340/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/02/328x181_ea1e9d427fb5664c32c517a73e421e58_81377af40112786d800802ecc23748461bea4427.jpg"
+  },
+  {
+    "day": "2023-10-02",
+    "jhno": 69,
+    "type": "イベント",
+    "title": "日本遺産「みちのくGOLD浪漫」PRコンテスト2023「きんぽす」",
+    "description": "1,250年にわたり日本の金を彩ってきた「みちのくの金」。\r\n日本遺産「みちのくGOLD浪漫」推進協議会は海洋連盟と連携し、構成6市町（岩手県平泉町、陸前高田市、宮城県気仙沼市、南三陸町、石巻市、涌谷町）にあるゴールドな景色や風景、ゴールドとして象徴すべきモノや身近にある何気ないゴールドを1枚のポスターとして表現するコンテスト「きんぽす」を開催しています。\r\n（応募期間：2023年10月1日（日）～2023年12月31日（日））\r\n\r\n今回で、第3回目を迎えるポスターコンテストです。入賞作品については、令和6年度の日本遺産「みちのくGOLD浪漫」公式ポスターとして、各種イベント等で掲示する予定です。",
+    "areas": "岩手県,宮城県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3342/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/02/328x181_ea1e9d427fb5664c32c517a73e421e58_4571a3edaa8ffcad763381115bc8d1bbf61f0152.jpg"
+  },
+  {
+    "day": "2023-10-02",
+    "jhno": 76,
+    "type": "メディア",
+    "title": "奥河内観光写真コンクールを開催中！",
+    "description": "日本の原風景が残る自然豊かなエリア「奥河内」の観光写真等を募集します！",
+    "areas": "大阪府",
+    "url": "https://kankou-kawachinagano.jp/contest/index.cgi",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/02/328x181_ea1e9d427fb5664c32c517a73e421e58_8ded43b2bfe0fe223a6cf8ea28c0928940f41897.png"
   }
 ]
