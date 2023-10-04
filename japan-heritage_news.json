@@ -19231,12 +19231,42 @@
   },
   {
     "day": "2023-10-02",
-    "jhno": 1,
+    "jhno": "1",
     "type": "イベント",
     "title": "〈足利市〉史跡足利学校企画展『元号～「令和」制定5周年記念～』を開催します！",
     "description": "〈足利市〉史跡足利学校企画展「元号～『令和』制定5周年記念～」を開催します！",
     "areas": "栃木県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3346/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/03/328x181_ea1e9d427fb5664c32c517a73e421e58_b45bbc35ec0b8ecab975da6d774b3f97374274a1.jpg"
+  },
+  {
+    "day": "2023-10-02",
+    "jhno": 14,
+    "type": "イベント",
+    "title": "第53回文化遺産パートナー養成講座",
+    "description": "",
+    "areas": "広島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3364/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/04/328x181_ea1e9d427fb5664c32c517a73e421e58_c2cb6c8214cda4d2445ecc9340dab6eac244b1f0.jpg"
+  },
+  {
+    "day": "2023-10-04",
+    "jhno": 97,
+    "type": "メディア",
+    "title": "HYOGO SAKE EXPO 2023に日本遺産ブース登場！",
+    "description": "神戸阪急でにひょうご五国が誇る蔵元総勢29蔵が出店。\r\n日本遺産のブースも登場します。",
+    "areas": "兵庫県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3327/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/04/328x181_ea1e9d427fb5664c32c517a73e421e58_b7ef4b33811dd1406f36118351d9c09e90876f5b.jpg"
+  },
+  {
+    "day": "2023-10-04",
+    "jhno": 87,
+    "type": "その他",
+    "title": "【北大路魯山人旧居】春風萬里荘 葺き替えプロジェクト",
+    "description": "春風萬里荘 葺き替えプロジェクトとしてクラウドファンディングがスタートしました。",
+    "areas": "茨城県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3347/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/04/328x181_ea1e9d427fb5664c32c517a73e421e58_130f753d30be26b4f25dd589e75c278ad96c90a7.png"
   }
 ]
