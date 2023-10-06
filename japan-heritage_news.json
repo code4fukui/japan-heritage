@@ -19271,7 +19271,7 @@
   },
   {
     "day": "2023-10-05",
-    "jhno": 12,
+    "jhno": "12",
     "type": "メディア",
     "title": "【鳥取県三朝町】公衆浴場「株湯」の営業再開について",
     "description": "",
@@ -19281,12 +19281,32 @@
   },
   {
     "day": "2023-10-05",
-    "jhno": 12,
+    "jhno": "12",
     "type": "メディア",
     "title": "【鳥取県三朝町】「とにかく明るい安村」さんを鳥取県温泉アンバサダーに任命しました",
     "description": "",
     "areas": "鳥取県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3373/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/05/328x181_ea1e9d427fb5664c32c517a73e421e58_20dba8e38b1aba212ed342678318249bd3956b49.jpg"
+  },
+  {
+    "day": "2023-10-06",
+    "jhno": 14,
+    "type": "イベント",
+    "title": "令和5年度文化財講座Ⅱ（第54回文化遺産パートナー養成講座）",
+    "description": "",
+    "areas": "広島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3366/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/04/328x181_ea1e9d427fb5664c32c517a73e421e58_c56df19ff7dbe67edd686c7afe7cbf92a949711a.jpg"
+  },
+  {
+    "day": "2023-10-06",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "【北海道沼田町】JR深川駅発着  乗合タクシーで行く沼田町昭和炭鉱史跡",
+    "description": "炭鉄港ガイド付きミニツアー初の沼田町です。\r\nJR深川駅から乗合タクシーで移動するのでとても気軽に参加可能！",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3375/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/06/328x181_ea1e9d427fb5664c32c517a73e421e58_c5f8609637cde582520bc60f7c5a08e597e9824a.png"
   }
 ]
