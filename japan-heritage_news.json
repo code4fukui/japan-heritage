@@ -19291,7 +19291,7 @@
   },
   {
     "day": "2023-10-06",
-    "jhno": 14,
+    "jhno": "14",
     "type": "イベント",
     "title": "令和5年度文化財講座Ⅱ（第54回文化遺産パートナー養成講座）",
     "description": "",
@@ -19301,12 +19301,32 @@
   },
   {
     "day": "2023-10-06",
-    "jhno": 68,
+    "jhno": "68",
     "type": "イベント",
     "title": "【北海道沼田町】JR深川駅発着  乗合タクシーで行く沼田町昭和炭鉱史跡",
-    "description": "炭鉄港ガイド付きミニツアー初の沼田町です。\r\nJR深川駅から乗合タクシーで移動するのでとても気軽に参加可能！",
+    "description": "炭鉄港ガイド付きミニツアー初の沼田町です。\nJR深川駅から乗合タクシーで移動するのでとても気軽に参加可能！",
     "areas": "北海道",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3375/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/06/328x181_ea1e9d427fb5664c32c517a73e421e58_c5f8609637cde582520bc60f7c5a08e597e9824a.png"
+  },
+  {
+    "day": "2023-10-06",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "【北海道芦別市】JR滝川駅発着 鉄道写楽家と行く旧三井芦別鉄道炭山川橋梁",
+    "description": "鉄道写真集「札沼線の記憶」などの著者として知られる矢野友宏さんと炭鉄港にまつわる鉄道写真を撮影するツアーです。",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3378/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/06/328x181_ea1e9d427fb5664c32c517a73e421e58_9ce9ae3c7ad7e684f044fa783a3853ab4130e867.png"
+  },
+  {
+    "day": "2023-10-07",
+    "jhno": 65,
+    "type": "イベント",
+    "title": "せとうちRideサイクルラリー2023　開催中",
+    "description": "",
+    "areas": "広島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3381/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/07/328x181_ea1e9d427fb5664c32c517a73e421e58_f3c2388d17f5f14158cf69d5f064c2b896f54726.jpg"
   }
 ]
