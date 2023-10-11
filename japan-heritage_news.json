@@ -19331,7 +19331,7 @@
   },
   {
     "day": "2023-10-10",
-    "jhno": 81,
+    "jhno": "81",
     "type": "イベント",
     "title": "藍のふるさとを歩くvol.2「藍商とともに発展した鴨島駅前中心市街地を訪ねて」の開催について",
     "description": "１１月１９日（日）藍のふるさとを歩くvol.2「藍商とともに発展した鴨島駅前中心市街地を訪ねて」を開催します。第２回目は鴨島駅前中心市街地の藍関連文化財を歩いて巡ります。",
@@ -19341,12 +19341,42 @@
   },
   {
     "day": "2023-10-10",
-    "jhno": 52,
+    "jhno": "52",
     "type": "イベント",
     "title": "「歴史×エンターテイメント門司港・関門海峡の魅力を世界へ！」が開催されます",
     "description": "北九州市門司港の丘の上に建つ「三宜楼」で、関門海峡と門司港の歴史をテーマにしたコンサートとトークショー「歴史×エンターテイメント　門司港・関門海峡の魅力を世界へ！」が開催されます。",
     "areas": "福岡県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3383/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/10/328x181_ea1e9d427fb5664c32c517a73e421e58_56a61e38fa67f50733e9165519e24dd24185434e.jpg"
+  },
+  {
+    "day": "2023-10-11",
+    "jhno": 20,
+    "type": "その他",
+    "title": "いでは文化記念館大規模改修工事のお知らせ",
+    "description": "いでは文化記念館（鶴岡市羽黒町）では今年度、施設の空調・電気設備に係る大規模改修工事が行われる予定です。",
+    "areas": "山形県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3384/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/10/328x181_ea1e9d427fb5664c32c517a73e421e58_75d359a20dcd4ceceee286f231d19d34a1ca0133.jpg"
+  },
+  {
+    "day": "2023-10-11",
+    "jhno": 88,
+    "type": "メディア",
+    "title": "【日本遺産フェス】駅前を「日本遺産フェスティバル」でドレスアップ中！ ",
+    "description": "「日本遺産フェスティバル in 桑都・八王子」の開催に向けて機運を盛り上げています。",
+    "areas": "東京都",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3385/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/11/328x181_ea1e9d427fb5664c32c517a73e421e58_3c76f00ee9fef76930884498b078635c854e685a.jpg"
+  },
+  {
+    "day": "2023-10-11",
+    "jhno": 88,
+    "type": "メディア",
+    "title": "オリジナルフレーム切手を作成！",
+    "description": "「日本遺産フェスティバル in 桑都・八王子」開催記念",
+    "areas": "東京都",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3386/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/11/328x181_ea1e9d427fb5664c32c517a73e421e58_efd86f8fa4ceafb9e3b338c093eb90cb41894075.jpg"
   }
 ]
