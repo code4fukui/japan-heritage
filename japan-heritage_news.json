@@ -19381,7 +19381,7 @@
   },
   {
     "day": "2023-10-12",
-    "jhno": 67,
+    "jhno": "67",
     "type": "イベント",
     "title": "「～祝 国指定80周年～生目古墳群deピクニック」開催のお知らせ",
     "description": "「～祝 国指定80周年～生目古墳群deピクニック」開催のお知らせ",
@@ -19391,7 +19391,7 @@
   },
   {
     "day": "2023-10-12",
-    "jhno": 67,
+    "jhno": "67",
     "type": "イベント",
     "title": "「西都児湯のコスモスまつりin西都原」開催のお知らせ",
     "description": "「西都児湯のコスモスまつりin西都原」開催のお知らせ",
@@ -19401,7 +19401,7 @@
   },
   {
     "day": "2023-10-12",
-    "jhno": 67,
+    "jhno": "67",
     "type": "イベント",
     "title": "「第37回西都古墳まつり」の開催について",
     "description": "「第37回西都古墳まつり」の開催について",
@@ -19411,7 +19411,7 @@
   },
   {
     "day": "2023-10-12",
-    "jhno": 1,
+    "jhno": "1",
     "type": "その他",
     "title": "〈日田市〉令和5年度　日本遺産中学生英語ガイド　第2回研修会を開催しました",
     "description": "",
@@ -19421,12 +19421,22 @@
   },
   {
     "day": "2023-10-12",
-    "jhno": 97,
+    "jhno": "97",
     "type": "イベント",
     "title": "灘の酒蔵探訪2023始まります！",
-    "description": "今年も灘の酒蔵探訪2023が始まります。\r\n酒蔵など15か所をまわってスタンプを集めると、豪華景品が抽選で当たるかも！",
+    "description": "今年も灘の酒蔵探訪2023が始まります。\n酒蔵など15か所をまわってスタンプを集めると、豪華景品が抽選で当たるかも！",
     "areas": "兵庫県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3393/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/12/328x181_ea1e9d427fb5664c32c517a73e421e58_dfe1ded4f0743205efebd32c7fa83e8b41692729.jpg"
+  },
+  {
+    "day": "2023-10-13",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "【北海道小樽市】「炭鉄港街歩きガイドin小樽」を開催します",
+    "description": "JRヘルシーウォーキング「小樽ウォーク」に合わせ「炭鉄港街歩きガイドin小樽」を開催します。",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3391/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/12/328x181_ea1e9d427fb5664c32c517a73e421e58_286fed1f05c35ee669ebe476c8fd47479ec1d767.png"
   }
 ]
