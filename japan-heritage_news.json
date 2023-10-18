@@ -19461,12 +19461,32 @@
   },
   {
     "day": "2023-10-17",
-    "jhno": 12,
+    "jhno": "12",
     "type": "メディア",
     "title": "【参加ボランティア募集】三徳山「環境整備活動」を実施します",
     "description": "",
     "areas": "鳥取県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3397/",
     "image": "https://japan-heritage.bunka.go.jp/ja/files/images/home/noimage.jpg"
+  },
+  {
+    "day": "2023-10-17",
+    "jhno": 97,
+    "type": "イベント",
+    "title": "「灘の下り酒物語 From KOBE」の開催！",
+    "description": "この秋は、日本酒造りの聖地「灘五郷」を体験しよう！",
+    "areas": "兵庫県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3400/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/17/328x181_ea1e9d427fb5664c32c517a73e421e58_78b27110e4802a34a80e350d9dfaf1d6882da161.jpg"
+  },
+  {
+    "day": "2023-10-18",
+    "jhno": 56,
+    "type": "イベント",
+    "title": "【河北町紅花資料館にて企画展開催中です】",
+    "description": "山形県の河北町にある「紅花資料館」にて紅花染めの企画展を開催中です（12月13日（水）まで）\r\n",
+    "areas": "山形県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3401/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/18/328x181_ea1e9d427fb5664c32c517a73e421e58_1547cdffec397736fbc30cbc924262c25fd92b6b.jpg"
   }
 ]
