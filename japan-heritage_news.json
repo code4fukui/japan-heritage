@@ -19601,17 +19601,17 @@
   },
   {
     "day": "2023-11-01",
-    "jhno": 69,
+    "jhno": "69",
     "type": "イベント",
     "title": "日本遺産「みちのくGOLD浪漫」スタンプラリー",
-    "description": "1,250年にわたり日本の金を彩ってきた「みちのくの金」。\r\n日本遺産「みちのくGOLD浪漫」推進協議会はJAF(日本自動車連盟)と連携し、構成6市町（岩手県平泉町、陸前高田市、宮城県気仙沼市、南三陸町、石巻市、涌谷町）内にあるおすすめスポットを巡って、地域の特産品が抽選で当たるドライブスタンプラリーを実施します。\r\n（応募期間：2023年11月1日（水）～2024年1月29日（月））",
+    "description": "1,250年にわたり日本の金を彩ってきた「みちのくの金」。\n日本遺産「みちのくGOLD浪漫」推進協議会はJAF(日本自動車連盟)と連携し、構成6市町（岩手県平泉町、陸前高田市、宮城県気仙沼市、南三陸町、石巻市、涌谷町）内にあるおすすめスポットを巡って、地域の特産品が抽選で当たるドライブスタンプラリーを実施します。\n（応募期間：2023年11月1日（水）～2024年1月29日（月））",
     "areas": "岩手県,宮城県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3410/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/10/25/328x181_ea1e9d427fb5664c32c517a73e421e58_94270449a997bee7b28c06e27da48a8f423f7da8.png"
   },
   {
     "day": "2023-11-01",
-    "jhno": 57,
+    "jhno": "57",
     "type": "イベント",
     "title": "日本遺産「大谷石文化」石のまち　宇都宮シンポジウムを開催します",
     "description": "",
@@ -19621,7 +19621,7 @@
   },
   {
     "day": "2023-11-01",
-    "jhno": 68,
+    "jhno": "68",
     "type": "イベント",
     "title": "【北海道栗山町・美唄市・三笠市】いままでありそうでなかった 炭鉄港めしの魅力に迫る１日",
     "description": "日本の近代化を支えたソウルフード「炭鉄港めし」を食べながら、３つの炭鉄港地域をジャンボタクシーで回ることができるほか、自家用車ではできないお酒の試飲も楽しめます。",
@@ -19631,7 +19631,7 @@
   },
   {
     "day": "2023-11-01",
-    "jhno": 2,
+    "jhno": "2",
     "type": "イベント",
     "title": "【11月19日まで】桐生織物記念館の企画展とイベントのお知らせ",
     "description": "桐生織物記念館で企画展を開催中です。11月3日の「桐生織物記念館の日」にはイベントも開催します。",
@@ -19641,12 +19641,52 @@
   },
   {
     "day": "2023-11-01",
-    "jhno": 81,
+    "jhno": "81",
     "type": "イベント",
     "title": "日本遺産「四国遍路」「藍のふるさと阿波」を走る　第２１回吉野川市リバーサイドハーフマラソンの開催について",
     "description": "吉野川沿いの堤防をコースとし、四国三郎吉野川の雄大な流れを感じながら、日本遺産「四国遍路」「藍のふるさと阿波」を走ってみませんか。",
     "areas": "徳島県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3435/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/01/328x181_ea1e9d427fb5664c32c517a73e421e58_53eeed9c793457d006a2ec8880a6f478cfa50c39.jpg"
+  },
+  {
+    "day": "2023-11-02",
+    "jhno": 97,
+    "type": "イベント",
+    "title": "灘の酒 meets TOKYO. TAKESHIBAの開催",
+    "description": "江戸を出発した現代版樽廻船が、東京・竹芝に到着。\r\n江戸時代から酒問屋の守り神として知られる新川大神宮の紹介や「灘の酒」の有料試飲など、「下り酒」の文化をお楽しみいただけます。",
+    "areas": "兵庫県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3437/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/02/328x181_ea1e9d427fb5664c32c517a73e421e58_59b075bce9592c4d9ba55dd14e5cf544f9bf7021.jpg"
+  },
+  {
+    "day": "2023-11-02",
+    "jhno": 65,
+    "type": "イベント",
+    "title": "我がまちが誇る遺跡巡回展「瀬戸内海の水運」開催中！",
+    "description": "",
+    "areas": "広島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3438/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/02/328x181_ea1e9d427fb5664c32c517a73e421e58_d8b71d85cfea7b9b697ae0d1f7a9b9d7da987ea6.jpg"
+  },
+  {
+    "day": "2023-11-02",
+    "jhno": 96,
+    "type": "イベント",
+    "title": "～秋の室生寺 紅葉ライトアップ2023～龍神さまの縁結び",
+    "description": "室生寺で秋のライトアップが開催されます！",
+    "areas": "大阪府,奈良県,和歌山県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3439/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/02/328x181_ea1e9d427fb5664c32c517a73e421e58_810502687735a3fceaf19d4770b2f929093aedfe.jpg"
+  },
+  {
+    "day": "2023-11-02",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "【北海道室蘭市】日本遺産「炭鉄港」構成文化財バスツアー開催！",
+    "description": "日本遺産「炭鉄港」の啓発、認知拡大を目的に、室蘭市内にある構成文化財を巡るガイド付きのバスツアーを開催いたします。",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3443/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/02/328x181_ea1e9d427fb5664c32c517a73e421e58_2539c399a919b1c8a6f4533dfbd42662d2f0c2f0.jpg"
   }
 ]
