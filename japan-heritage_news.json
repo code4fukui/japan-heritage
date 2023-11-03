@@ -19651,17 +19651,17 @@
   },
   {
     "day": "2023-11-02",
-    "jhno": 97,
+    "jhno": "97",
     "type": "イベント",
     "title": "灘の酒 meets TOKYO. TAKESHIBAの開催",
-    "description": "江戸を出発した現代版樽廻船が、東京・竹芝に到着。\r\n江戸時代から酒問屋の守り神として知られる新川大神宮の紹介や「灘の酒」の有料試飲など、「下り酒」の文化をお楽しみいただけます。",
+    "description": "江戸を出発した現代版樽廻船が、東京・竹芝に到着。\n江戸時代から酒問屋の守り神として知られる新川大神宮の紹介や「灘の酒」の有料試飲など、「下り酒」の文化をお楽しみいただけます。",
     "areas": "兵庫県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3437/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/02/328x181_ea1e9d427fb5664c32c517a73e421e58_59b075bce9592c4d9ba55dd14e5cf544f9bf7021.jpg"
   },
   {
     "day": "2023-11-02",
-    "jhno": 65,
+    "jhno": "65",
     "type": "イベント",
     "title": "我がまちが誇る遺跡巡回展「瀬戸内海の水運」開催中！",
     "description": "",
@@ -19671,7 +19671,7 @@
   },
   {
     "day": "2023-11-02",
-    "jhno": 96,
+    "jhno": "96",
     "type": "イベント",
     "title": "～秋の室生寺 紅葉ライトアップ2023～龍神さまの縁結び",
     "description": "室生寺で秋のライトアップが開催されます！",
@@ -19681,12 +19681,32 @@
   },
   {
     "day": "2023-11-02",
-    "jhno": 68,
+    "jhno": "68",
     "type": "イベント",
     "title": "【北海道室蘭市】日本遺産「炭鉄港」構成文化財バスツアー開催！",
     "description": "日本遺産「炭鉄港」の啓発、認知拡大を目的に、室蘭市内にある構成文化財を巡るガイド付きのバスツアーを開催いたします。",
     "areas": "北海道",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3443/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/02/328x181_ea1e9d427fb5664c32c517a73e421e58_2539c399a919b1c8a6f4533dfbd42662d2f0c2f0.jpg"
+  },
+  {
+    "day": "2023-11-03",
+    "jhno": 76,
+    "type": "イベント",
+    "title": "令和5年秋季　天野山金剛寺国宝特別公開！",
+    "description": "国宝三尊・国宝日月四季山水図屏風・重要文化財弘法大師像が公開されます。",
+    "areas": "大阪府",
+    "url": "https://amanosan-kongoji.jp/news/news-1151/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/02/328x181_ea1e9d427fb5664c32c517a73e421e58_628c5d2164f4baf57ef6fdafefff3bc6dbb13849.jpg"
+  },
+  {
+    "day": "2023-11-03",
+    "jhno": 96,
+    "type": "イベント",
+    "title": "令和5年秋季　天野山金剛寺国宝特別公開！",
+    "description": "国宝三尊・国宝日月四季山水図屏風・重要文化財弘法大師像が公開されます。",
+    "areas": "大阪府,奈良県,和歌山県",
+    "url": "https://amanosan-kongoji.jp/news/news-1151/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/02/328x181_ea1e9d427fb5664c32c517a73e421e58_8c5f8d66aa0c892d28c900da0ba6fa60837a5048.jpg"
   }
 ]
