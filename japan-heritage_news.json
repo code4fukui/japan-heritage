@@ -19711,12 +19711,22 @@
   },
   {
     "day": "2023-11-04",
-    "jhno": 1,
+    "jhno": "1",
     "type": "その他",
     "title": "〈日田市〉令和5年度　日本遺産子どもガイド　第8回研修会を開催しました",
     "description": "",
     "areas": "大分県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3444/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/04/328x181_ea1e9d427fb5664c32c517a73e421e58_5261b57ae24440a5600a38cfc535bb67f398b11a.jpg"
+  },
+  {
+    "day": "2023-11-05",
+    "jhno": 1,
+    "type": "その他",
+    "title": "〈日田市〉令和5年度　日本遺産中学生英語ガイド　第4回研修会を開催しました",
+    "description": "",
+    "areas": "大分県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3445/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/04/328x181_ea1e9d427fb5664c32c517a73e421e58_b1a214eeedf7b36e9c6d26e2fcb5c538098dda5f.jpg"
   }
 ]
