@@ -19731,12 +19731,32 @@
   },
   {
     "day": "2023-11-07",
-    "jhno": 66,
+    "jhno": "66",
     "type": "その他",
     "title": "2023年の豊後高田「秋そば」が11月11日(土)に解禁！",
     "description": "豊後高田市の「秋そば」が11月11日（土）に解禁されます！豊後高田市内のそば認定店（全11店舗）で、採れたて・挽きたて・打ちたて・茹でたての「四たて」で提供されるそばをお楽しみください。",
     "areas": "大分県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3450/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/07/328x181_ea1e9d427fb5664c32c517a73e421e58_706fdb8a176afaa0f1989dd2167b111ecc733a7b.jpg"
+  },
+  {
+    "day": "2023-11-08",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "【北海道】炭鉄港めしスタンプラリー冬の陣開催！",
+    "description": "昨年も大好評をいただきました炭鉄港めしオンラインスタンプラリー！今年も開催いたします。\r\n今年はアツアツの炭鉄港めしが一層おいしく感じられる「冬」の開催！",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3449/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/07/328x181_ea1e9d427fb5664c32c517a73e421e58_7c93466903f90313fdf1319089fefe42ce030537.png"
+  },
+  {
+    "day": "2023-11-08",
+    "jhno": 20,
+    "type": "イベント",
+    "title": "出羽の古道「六十里越街道魅力発信フォーラム」について",
+    "description": "千二百年以上の長きにわたって多くの人びとに歩き継がれてきた「六十里越街道」の魅力を、どのように発信し、次代に引き継いでいくかについて考えるフォーラムが開催されます。",
+    "areas": "山形県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3452/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/08/328x181_ea1e9d427fb5664c32c517a73e421e58_bba245ba03bd0dddc039ffe951de3bc7483a8452.jpg"
   }
 ]
