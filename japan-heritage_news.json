@@ -19741,22 +19741,42 @@
   },
   {
     "day": "2023-11-08",
-    "jhno": 68,
+    "jhno": "68",
     "type": "イベント",
     "title": "【北海道】炭鉄港めしスタンプラリー冬の陣開催！",
-    "description": "昨年も大好評をいただきました炭鉄港めしオンラインスタンプラリー！今年も開催いたします。\r\n今年はアツアツの炭鉄港めしが一層おいしく感じられる「冬」の開催！",
+    "description": "昨年も大好評をいただきました炭鉄港めしオンラインスタンプラリー！今年も開催いたします。\n今年はアツアツの炭鉄港めしが一層おいしく感じられる「冬」の開催！",
     "areas": "北海道",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3449/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/07/328x181_ea1e9d427fb5664c32c517a73e421e58_7c93466903f90313fdf1319089fefe42ce030537.png"
   },
   {
     "day": "2023-11-08",
-    "jhno": 20,
+    "jhno": "20",
     "type": "イベント",
     "title": "出羽の古道「六十里越街道魅力発信フォーラム」について",
     "description": "千二百年以上の長きにわたって多くの人びとに歩き継がれてきた「六十里越街道」の魅力を、どのように発信し、次代に引き継いでいくかについて考えるフォーラムが開催されます。",
     "areas": "山形県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3452/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/08/328x181_ea1e9d427fb5664c32c517a73e421e58_bba245ba03bd0dddc039ffe951de3bc7483a8452.jpg"
+  },
+  {
+    "day": "2023-11-09",
+    "jhno": 39,
+    "type": "メディア",
+    "title": "北前船オンラインセミナー第２回「昆布編」",
+    "description": "北前船日本遺産推進協議会では今年度も北前船オンラインセミナーを開催中です。\r\n北前船の歴史と魅力・深掘り講座として、第２回目のテーマは「昆布」\r\n添付のチラシのQRよりお申込みください。\r\nみなさまのご参加をお待ちしております。",
+    "areas": "北海道,青森県,秋田県,山形県,新潟県,富山県,石川県,福井県,京都府,大阪府,兵庫県,鳥取県,島根県,岡山県,広島県,香川県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3454/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/09/328x181_ea1e9d427fb5664c32c517a73e421e58_54ce1cca357a40e0a09e83eb67fa9f3e54abb1e6.jpg"
+  },
+  {
+    "day": "2023-11-09",
+    "jhno": 66,
+    "type": "その他",
+    "title": "国の重要文化的景観・田染荘小崎でイルミネーションが始まります！－田染荘「千年のきらめき」－",
+    "description": "国の重要文化的景観として選定されており、世界農業遺産を象徴するスポットでもある『田染荘小崎地区』がイルミネーションによって幻想的な輝きを放ちます！",
+    "areas": "大分県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3456/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/09/328x181_ea1e9d427fb5664c32c517a73e421e58_45eb1f8321f84a5d09b8dec4f051f520b25d007c.jpg"
   }
 ]
