@@ -19761,22 +19761,72 @@
   },
   {
     "day": "2023-11-09",
-    "jhno": 39,
+    "jhno": "39",
     "type": "メディア",
     "title": "北前船オンラインセミナー第２回「昆布編」",
-    "description": "北前船日本遺産推進協議会では今年度も北前船オンラインセミナーを開催中です。\r\n北前船の歴史と魅力・深掘り講座として、第２回目のテーマは「昆布」\r\n添付のチラシのQRよりお申込みください。\r\nみなさまのご参加をお待ちしております。",
+    "description": "北前船日本遺産推進協議会では今年度も北前船オンラインセミナーを開催中です。\n北前船の歴史と魅力・深掘り講座として、第２回目のテーマは「昆布」\n添付のチラシのQRよりお申込みください。\nみなさまのご参加をお待ちしております。",
     "areas": "北海道,青森県,秋田県,山形県,新潟県,富山県,石川県,福井県,京都府,大阪府,兵庫県,鳥取県,島根県,岡山県,広島県,香川県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3454/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/09/328x181_ea1e9d427fb5664c32c517a73e421e58_54ce1cca357a40e0a09e83eb67fa9f3e54abb1e6.jpg"
   },
   {
     "day": "2023-11-09",
-    "jhno": 66,
+    "jhno": "66",
     "type": "その他",
     "title": "国の重要文化的景観・田染荘小崎でイルミネーションが始まります！－田染荘「千年のきらめき」－",
     "description": "国の重要文化的景観として選定されており、世界農業遺産を象徴するスポットでもある『田染荘小崎地区』がイルミネーションによって幻想的な輝きを放ちます！",
     "areas": "大分県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3456/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/09/328x181_ea1e9d427fb5664c32c517a73e421e58_45eb1f8321f84a5d09b8dec4f051f520b25d007c.jpg"
+  },
+  {
+    "day": "2023-11-10",
+    "jhno": 14,
+    "type": "イベント",
+    "title": "第56回文化遺産パートナー養成講座",
+    "description": "",
+    "areas": "広島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3462/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/09/328x181_ea1e9d427fb5664c32c517a73e421e58_c8c7a87cc0e9a0070f3007ec2fd5b62658801bc8.jpg"
+  },
+  {
+    "day": "2023-11-10",
+    "jhno": 36,
+    "type": "イベント",
+    "title": "因島水軍城40周年記念企画展（尾道遺跡発掘調査研究所出張展示会）「石碑からたどる因島と村上海賊」",
+    "description": "",
+    "areas": "広島県,愛媛県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3469/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/09/328x181_ea1e9d427fb5664c32c517a73e421e58_dfb2aa50b369e533ff27c7b03a3b96bb8d40215f.jpg"
+  },
+  {
+    "day": "2023-11-10",
+    "jhno": 69,
+    "type": "その他",
+    "title": "《創業110周年企画》男山本店純米吟醸鹿折金山貯蔵酒が発売しました",
+    "description": "気仙沼市にある酒蔵・男山本店が創業110周年を記念し、初の試みとして、奥州藤原氏の都・平泉の黄金文化を支えたとも伝えられ、日本遺産「みちのくGOLD浪漫」の構成文化財「鹿折金山」の坑道を活用した坑道熟成酒「男山本店 純米吟醸 鹿折金山貯蔵酒(720ml)」を11月10日(金)に発売いたしました。\r\n坑道内の温度は年間を通じて10度前後と安定しており、また紫外線の量も少なく、貯蔵には非常に適している環境となっております。通常とは異なる環境下での熟成により、ゆっくりと変化をとげたこの金山貯蔵酒。みちのくのゴールドロマンに思いを馳せながら、その貯蔵による豊かな味わいをお楽しみください。",
+    "areas": "岩手県,宮城県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3470/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/10/328x181_ea1e9d427fb5664c32c517a73e421e58_4a97b2b700920e31715580e99c52ac1a5b29fb54.jpg"
+  },
+  {
+    "day": "2023-11-10",
+    "jhno": 81,
+    "type": "イベント",
+    "title": "第82回鴨島大菊人形・第91回四国菊花品評会",
+    "description": "第８２回鴨島大菊人形・第９１回四国菊花品評会　吉野川市役所イベント広場　１１月２６日（日）まで。",
+    "areas": "徳島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3471/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/10/328x181_ea1e9d427fb5664c32c517a73e421e58_28d5c896bb933abc320908119c3b2508519bcb22.jpg"
+  },
+  {
+    "day": "2023-11-10",
+    "jhno": 81,
+    "type": "イベント",
+    "title": "藍のふるさと阿波９市町連携パネル展　吉野川市文化研修センター",
+    "description": "１１月１０日（金）藍のふるさと阿波９市町連携パネル展が吉野川市文化研修センターで始まりました。１１月１９日（日）まで。",
+    "areas": "徳島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3478/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/10/328x181_ea1e9d427fb5664c32c517a73e421e58_7e06e30df4c67d4fef9facf2ef2b33739aa87f8f.jpg"
   }
 ]
