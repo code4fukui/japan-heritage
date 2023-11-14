@@ -19841,12 +19841,32 @@
   },
   {
     "day": "2023-11-13",
-    "jhno": 66,
+    "jhno": "66",
     "type": "その他",
     "title": "九州沖縄連携キックオフシンポジウムを開催します！",
     "description": "「九州沖縄連携」は九州・沖縄の日本遺産協議会の有志が集まり、各地域の課題を共有する「情報交換会」や日本遺産イベントで九州連携のPRブースを開くなど様々な取組を行ってきています。この度、九州沖縄連携の各協議会が集まり、今後の連携についてその意義を再確認し、新しい一歩を刻むキックオフシンポジウムを実施します。",
     "areas": "福岡県,佐賀県,長崎県,熊本県,大分県,宮崎県,鹿児島県,沖縄県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3477/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/13/328x181_ea1e9d427fb5664c32c517a73e421e58_084509b2f07664689ca9d4359ff6538566a1dad8.jpg"
+  },
+  {
+    "day": "2023-11-14",
+    "jhno": 67,
+    "type": "イベント",
+    "title": "「第37回西都古墳まつり」が開催されました",
+    "description": "11月4日と5日の２日間、西都原古墳群で第37回西都古墳まつりが開催されました。",
+    "areas": "宮崎県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3480/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/14/328x181_ea1e9d427fb5664c32c517a73e421e58_e8e6cdfcb4aa25e976b4b4262fad8a9bcf9e0c4a.jpg"
+  },
+  {
+    "day": "2023-11-14",
+    "jhno": 81,
+    "type": "イベント",
+    "title": "藍のふるさと阿波9市町連携パネル展　美馬市立図書館",
+    "description": "１１月１５日（水）藍のふるさと阿波９市町連携パネル展が美馬市立図書館で始まりました。１１月２７日（日）まで。",
+    "areas": "徳島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3482/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/11/14/328x181_ea1e9d427fb5664c32c517a73e421e58_b923feb6c9278842f66956d5dc14e3a927871709.jpg"
   }
 ]
