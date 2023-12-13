@@ -20058,5 +20058,35 @@
     "areas": "山形県,群馬県,東京都,徳島県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3515/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/12/11/328x181_ea1e9d427fb5664c32c517a73e421e58_63c9f57966e258480d3ba176f537c66238437b05.jpg"
+  },
+  {
+    "day": "2023-12-13",
+    "jhno": 6,
+    "type": "その他",
+    "title": "日本遺産「信長公のおもてなし」LINEスタンプができました！",
+    "description": "",
+    "areas": "岐阜県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3418/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/12/13/328x181_ea1e9d427fb5664c32c517a73e421e58_58bfa2bda222aaed6341845ce01335495c26a03f.png"
+  },
+  {
+    "day": "2023-12-13",
+    "jhno": 56,
+    "type": "イベント",
+    "title": "【京都にて「日本の彩と織」の展示を行います】",
+    "description": "令和６年１月13日（金）～19日（金）に「kokoka京都市国際交流会館」にて展示を行います！",
+    "areas": "山形県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3516/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/12/12/328x181_ea1e9d427fb5664c32c517a73e421e58_660431edc86b8a6d4bcd5f1ae6078d32823ee104.jpg"
+  },
+  {
+    "day": "2023-12-13",
+    "jhno": 91,
+    "type": "その他",
+    "title": "（クラウドファンディング）『金峰山古道復活プロジェクト』始動！！",
+    "description": "日本百名山に選ばれ、山頂にそびえ立つ巨岩が特徴的な金峰山。\r\nかつて、そこには “表参道”として親しまれていた「御嶽道」という祈りの道がありましたが、現在では、新たな登山道が開通したことにより利用者が減り、御嶽道は忘れられつつある\"古道\"となっています。\r\nそんな御嶽古道を多くの方々がもっと気軽に登れるよう再整備進めていきます。\r\nその第一歩としてクラウドファンディングへのご協力をお願いします。",
+    "areas": "山梨県",
+    "url": "https://readyfor.jp/projects/kinpusan",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/12/13/328x181_ea1e9d427fb5664c32c517a73e421e58_63715b60fb5ec15466b8a0a5794578ec5c4d3c03.jpg"
   }
 ]
