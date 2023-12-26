@@ -20151,22 +20151,42 @@
   },
   {
     "day": "2023-12-22",
-    "jhno": 97,
+    "jhno": "97",
     "type": "イベント",
     "title": "神戸：「灘の酒大学」受講生募集",
-    "description": "日本酒のことを楽しく学べる「灘の酒大学」を神戸で開講します。\r\n「灘の酒大学」では、神戸市内の酒蔵6社が参加し、工夫を凝らした講義や利き酒を行います。",
+    "description": "日本酒のことを楽しく学べる「灘の酒大学」を神戸で開講します。\n「灘の酒大学」では、神戸市内の酒蔵6社が参加し、工夫を凝らした講義や利き酒を行います。",
     "areas": "兵庫県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3550/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/12/25/328x181_ea1e9d427fb5664c32c517a73e421e58_2f2ab3b1debc99cf91ca7d25beab216528923c88.jpg"
   },
   {
     "day": "2023-12-25",
-    "jhno": 67,
+    "jhno": "67",
     "type": "その他",
     "title": "西都市の「記紀の道」が、国土交通省の「手づくり郷土賞・大賞部門」に選ばれました",
     "description": "",
     "areas": "宮崎県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3533/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/12/25/328x181_ea1e9d427fb5664c32c517a73e421e58_93f61a98d2e580666da9e2d1d6c2f19564339970.jpg"
+  },
+  {
+    "day": "2023-12-26",
+    "jhno": 66,
+    "type": "メディア",
+    "title": "【クラウドファンディング】令和６年の天念寺修正鬼会を応援しよう！",
+    "description": "2024年2月16日に天念寺修正鬼会鬼会が行われます。鬼会の実施にあたり、必要な道具を製作したり多くの僧侶の方々に来ていただいたりするため、多くの出費があります。例年であれば各所へ直接回り、多くの方々からご寄附をいただいて運営するところですが、それが難しい場所もあるため、日本遺産くにさき特設ホームページ内のクラウドファンディングを利用して寄附を募ります。",
+    "areas": "大分県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3518/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/12/13/328x181_ea1e9d427fb5664c32c517a73e421e58_5a4355813696fb1667486adf8302ac83409de0b5.jpg"
+  },
+  {
+    "day": "2023-12-26",
+    "jhno": 66,
+    "type": "イベント",
+    "title": "【九州沖縄連携】沖縄で販売イベントを行います！",
+    "description": "２０２４年１月５日（金）～１１日（木）までの１週間、沖縄市プラザハウス内のロージャース・フードマーケット、那覇市のフラッグシップ・ナハの２カ所で、日本遺産九州沖縄連携のPRイベントを開催いたします。",
+    "areas": "福岡県,佐賀県,長崎県,熊本県,大分県,宮崎県,鹿児島県,沖縄県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3521/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/12/15/328x181_ea1e9d427fb5664c32c517a73e421e58_187ec546e891d60b7717253c57dfe7506293e202.jpg"
   }
 ]
