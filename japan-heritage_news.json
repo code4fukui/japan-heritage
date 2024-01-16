@@ -20321,12 +20321,22 @@
   },
   {
     "day": "2024-01-15",
-    "jhno": 1,
+    "jhno": "1",
     "type": "イベント",
     "title": "〈足利市〉史跡足利学校企画展『平安文学と文選』を開催します！",
     "description": "〈足利市〉史跡足利学校企画展『平安文学と文選』を開催します！",
     "areas": "栃木県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3588/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/15/328x181_ea1e9d427fb5664c32c517a73e421e58_a2fdcabe1571873be76226f676fc4a2549a07ed1.jpg"
+  },
+  {
+    "day": "2024-01-16",
+    "jhno": 56,
+    "type": "イベント",
+    "title": "【今年もやります！寒中紅花染め体験】",
+    "description": "２月１６日（金）、１７日（土）に「本物の紅花染め」寒中紅花染体験をします！",
+    "areas": "山形県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3593/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/16/328x181_ea1e9d427fb5664c32c517a73e421e58_6a300644c08f50195ce2c44647cfc8cdc8410499.jpg"
   }
 ]
