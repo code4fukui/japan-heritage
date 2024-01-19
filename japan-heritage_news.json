@@ -20371,12 +20371,52 @@
   },
   {
     "day": "2024-01-18",
-    "jhno": 68,
+    "jhno": "68",
     "type": "その他",
     "title": "【北海道】SAPPORO STREAM HOTELが朝食に「炭鉄港めし」を提供",
     "description": "2024年1月16日にすすきのにグランドオープンするSAPPORO STREAM HOTELが、朝食メニューの一つとして「炭鉄港めし」を提供！",
     "areas": "北海道",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3556/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/12/26/328x181_ea1e9d427fb5664c32c517a73e421e58_6b98175ff16222c0a49b0b9e678d6bd3c45a7898.png"
+  },
+  {
+    "day": "2024-01-19",
+    "jhno": 97,
+    "type": "イベント",
+    "title": "【1/19～1/28】EKIZO×Go!Go!灘五郷Fairの開催！",
+    "description": "EKIZO神戸三宮でグルメを満喫して絶品の灘の酒を楽しめる企画を開催します。ぜひお越しください。",
+    "areas": "兵庫県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3595/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/18/328x181_ea1e9d427fb5664c32c517a73e421e58_13f197c00d69fb530abfeef04e2a85f1d2105c6c.jpg"
+  },
+  {
+    "day": "2024-01-19",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "【北海道三笠市】ミカサノ炭鉱＆森林スノーシュー散策ツアーの実施について",
+    "description": "三笠の石炭発見の地である幌内の森林で、スノーシューを履いて散策し、変電所など旧幌内炭鉱施設群を見学します。",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3600/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/18/328x181_ea1e9d427fb5664c32c517a73e421e58_b6417adbd42438d54204d943de004d3961b8c1e9.jpg"
+  },
+  {
+    "day": "2024-01-19",
+    "jhno": 67,
+    "type": "イベント",
+    "title": "「もはや、九州沖縄大国」九州沖縄の日本遺産大集合！",
+    "description": "",
+    "areas": "宮崎県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3601/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/19/328x181_ea1e9d427fb5664c32c517a73e421e58_6f695818bc066b0d9e9a3ff1d2db920df9d45fe9.jpg"
+  },
+  {
+    "day": "2024-01-19",
+    "jhno": 69,
+    "type": "イベント",
+    "title": "玉山金山水晶探索ツアーの参加者を募集します",
+    "description": "かねてから調査・検証を進めておりました岩手県陸前高田市の日本遺産「みちのくGOLD浪漫」構成文化財「玉山金山遺跡」での「水晶探索ツアー」が、一般の皆さまに参加していただける形となりました！",
+    "areas": "岩手県,宮城県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3604/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/19/328x181_ea1e9d427fb5664c32c517a73e421e58_57b67a63b50d1e036cb8096146c27b315daa9230.jpg"
   }
 ]
