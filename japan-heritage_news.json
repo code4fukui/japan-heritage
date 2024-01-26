@@ -20431,7 +20431,7 @@
   },
   {
     "day": "2024-01-25",
-    "jhno": 77,
+    "jhno": "77",
     "type": "イベント",
     "title": "赤穂市日本遺産展2024を開催します",
     "description": "２つの企画展を同時開催！",
@@ -20441,22 +20441,62 @@
   },
   {
     "day": "2024-01-25",
-    "jhno": 97,
+    "jhno": "97",
     "type": "イベント",
     "title": "【日本遺産PRブースも出展！】「灘五郷の蔵開き」開催！",
-    "description": "新酒の完成を祝い、皆様に感謝を示す「蔵開き」。\r\n今年は”灘五郷”が一丸となった合同蔵開きイベントを開催いたします！\r\n\r\nしぼりたて新酒や燗酒など、冬ならではの試飲会をぜひお楽しみください。",
+    "description": "新酒の完成を祝い、皆様に感謝を示す「蔵開き」。\n今年は”灘五郷”が一丸となった合同蔵開きイベントを開催いたします！\n\nしぼりたて新酒や燗酒など、冬ならではの試飲会をぜひお楽しみください。",
     "areas": "兵庫県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3607/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/25/328x181_ea1e9d427fb5664c32c517a73e421e58_7fdf0c2fc37541461f72ba12e87a92da03fa71ab.jpg"
   },
   {
     "day": "2024-01-25",
-    "jhno": 91,
+    "jhno": "91",
     "type": "メディア",
     "title": "高校生が昇仙峡の魅力を紹介！",
     "description": "山梨県甲府市にある甲府第一高等学校探究科の生徒が日本遺産「御嶽昇仙峡」の魅力を紹介",
     "areas": "山梨県",
     "url": "https://www.youtube.com/watch?si=csbLJc476vHmDrGq&v=0r4axlHV_W0&feature=youtu.be",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/25/328x181_ea1e9d427fb5664c32c517a73e421e58_f506ab87f01ad492d8e247d7fab7c33a9e7c84d4.png"
+  },
+  {
+    "day": "2024-01-26",
+    "jhno": 77,
+    "type": "イベント",
+    "title": "坂越かきうまうまキャンペーン！",
+    "description": "2つの日本遺産があるまちで「坂越かき」をご賞味ください！",
+    "areas": "兵庫県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3609/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/26/328x181_ea1e9d427fb5664c32c517a73e421e58_4590c784f7c2157916b7d5bd1407d1a35e7c7ebe.jpg"
+  },
+  {
+    "day": "2024-01-26",
+    "jhno": 65,
+    "type": "イベント",
+    "title": "お弓神事　～1年間の無病息災を祈る～",
+    "description": "",
+    "areas": "広島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3611/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/26/328x181_ea1e9d427fb5664c32c517a73e421e58_d6082adc2ccdd4b109d3053d2220e33da3b10b38.jpg"
+  },
+  {
+    "day": "2024-01-26",
+    "jhno": 65,
+    "type": "イベント",
+    "title": "第22回　鞆・町並ひな祭　～みにきない　町並み舞台　ひな笑ふ～",
+    "description": "",
+    "areas": "広島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3612/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/26/328x181_ea1e9d427fb5664c32c517a73e421e58_252a6d3b33f878815a82b1339f4466b5963d25df.jpg"
+  },
+  {
+    "day": "2024-01-26",
+    "jhno": 66,
+    "type": "イベント",
+    "title": "鎌倉で日本遺産くにさきの美味しいもの展を開催します！",
+    "description": "２０２４年２月１日（木）～１８日（日）までの約３週間、神奈川県鎌倉市のWITH KAMAKURAにて、日本遺産くにさきのPRイベントを開催いたします。",
+    "areas": "神奈川県,大分県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3613/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/26/328x181_ea1e9d427fb5664c32c517a73e421e58_d6a97fdc30f975b46d8c9b73072064c9efb2a338.jpg"
   }
 ]
