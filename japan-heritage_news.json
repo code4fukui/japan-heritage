@@ -20511,7 +20511,7 @@
   },
   {
     "day": "2024-01-29",
-    "jhno": 88,
+    "jhno": "88",
     "type": "メディア",
     "title": "八王子市図書館に日本遺産「桑都物語」の常設コーナーを開設！",
     "description": "市立図書館全館で八王子の日本遺産と歴史・文化・伝統にアクセスできる「桑都八王子コーナー」を常設しています。",
@@ -20521,12 +20521,22 @@
   },
   {
     "day": "2024-01-29",
-    "jhno": 1,
+    "jhno": "1",
     "type": "イベント",
     "title": "〈日田市〉天領日田おひなまつりで「日本遺産子どもガイド」を開催します！",
     "description": "",
     "areas": "大分県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3616/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/29/328x181_ea1e9d427fb5664c32c517a73e421e58_5884f397bcc7b2a37c2874518acf1201bf2d0a5c.jpg"
+  },
+  {
+    "day": "2024-01-30",
+    "jhno": 1,
+    "type": "イベント",
+    "title": "〈日田市〉JR宮崎駅AMU広場で日本遺産PRイベントに参加しました",
+    "description": "",
+    "areas": "大分県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3618/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/30/328x181_ea1e9d427fb5664c32c517a73e421e58_ee3fb8bb55190a8e5dee9789c10a68fadc442976.jpg"
   }
 ]
