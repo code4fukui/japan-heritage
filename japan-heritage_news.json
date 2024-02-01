@@ -20541,12 +20541,82 @@
   },
   {
     "day": "2024-01-31",
-    "jhno": 52,
+    "jhno": "52",
     "type": "イベント",
     "title": "下関市立考古博物館で日本遺産パネル展を開催中！",
     "description": "日本遺産パネル展の開催案内",
     "areas": "山口県,福岡県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3620/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/31/328x181_ea1e9d427fb5664c32c517a73e421e58_210f31fdb3b4fe6c67e9186663164a1e99b139da.jpg"
+  },
+  {
+    "day": "2024-02-01",
+    "jhno": 67,
+    "type": "イベント",
+    "title": "「宮崎古墳フォトラリー2024」開催！",
+    "description": "宮崎県内の日本遺産の美しい景観や古代ロマンあふれる写真を撮影して、Instagramに投稿しよう！",
+    "areas": "宮崎県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3619/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/01/31/328x181_ea1e9d427fb5664c32c517a73e421e58_ec3958f5c25e44eaed44e56e4b65d4ce9b87152a.jpg"
+  },
+  {
+    "day": "2024-02-01",
+    "jhno": 93,
+    "type": "メディア",
+    "title": "「日本遺産 信州上田・塩田平 名所図会　てくてく歩きガイドマップ」のデジタルパンフレットを公開しました",
+    "description": "長野県上田市の日本遺産\r\n総合観光パンフレット",
+    "areas": "長野県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3625/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/01/328x181_ea1e9d427fb5664c32c517a73e421e58_c36eb0234073fa40bee3baa3465acb1994a6fd6c.png"
+  },
+  {
+    "day": "2024-02-01",
+    "jhno": 93,
+    "type": "メディア",
+    "title": "絵本「おひさまはみている」ウェブブックを公開しました",
+    "description": "長野県上田市の日本遺産\r\n龍と生きるまちを描いた絵本",
+    "areas": "長野県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3627/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/01/328x181_ea1e9d427fb5664c32c517a73e421e58_1f177091db61edac101f4c318331e2b22b3952f5.jpg"
+  },
+  {
+    "day": "2024-02-01",
+    "jhno": 93,
+    "type": "メディア",
+    "title": "「月刊江戸楽」抜き刷りパンフレットを制作しました",
+    "description": "月刊「江戸楽」令和５年８月号\r\n抜き刷りパンフレット発行！",
+    "areas": "長野県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3629/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/01/328x181_ea1e9d427fb5664c32c517a73e421e58_cae6a512774ca51f814fd6fd2cbfc4a9fa1cc810.jpg"
+  },
+  {
+    "day": "2024-02-01",
+    "jhno": 93,
+    "type": "イベント",
+    "title": "令和５年度「日本遺産 信州上田・塩田平検定」",
+    "description": "【12月17日（日）開催】\r\n長野県上田市のご当地検定を開催！",
+    "areas": "長野県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3632/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/01/328x181_ea1e9d427fb5664c32c517a73e421e58_0c9d0dafffee45142d2c0fea489748cb2466703b.jpg"
+  },
+  {
+    "day": "2024-02-01",
+    "jhno": 68,
+    "type": "メディア",
+    "title": "【北海道】北海道情報誌 HO[ほ] に”炭鉄港めし”が掲載されました！",
+    "description": "北海道情報誌 HO[ほ] に”炭鉄港めし”が掲載されました！",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3633/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/01/328x181_ea1e9d427fb5664c32c517a73e421e58_f2fe2e6f72c7bf4ccf70e16887a5dcf9997ca44f.jpg"
+  },
+  {
+    "day": "2024-02-01",
+    "jhno": 88,
+    "type": "イベント",
+    "title": "八王子車人形～美味しいとこどり公演～開催！",
+    "description": "重要無形民俗文化財「八王子車人形」の代表的な演目など、八王子車人形西川古柳座の次代を担う若手座員が演じます。",
+    "areas": "東京都",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3635/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/01/328x181_ea1e9d427fb5664c32c517a73e421e58_bd052c982e0216d09afa37018118d7154b6265a6.jpg"
   }
 ]
