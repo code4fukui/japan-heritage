@@ -20551,7 +20551,7 @@
   },
   {
     "day": "2024-02-01",
-    "jhno": 67,
+    "jhno": "67",
     "type": "イベント",
     "title": "「宮崎古墳フォトラリー2024」開催！",
     "description": "宮崎県内の日本遺産の美しい景観や古代ロマンあふれる写真を撮影して、Instagramに投稿しよう！",
@@ -20561,47 +20561,47 @@
   },
   {
     "day": "2024-02-01",
-    "jhno": 93,
+    "jhno": "93",
     "type": "メディア",
     "title": "「日本遺産 信州上田・塩田平 名所図会　てくてく歩きガイドマップ」のデジタルパンフレットを公開しました",
-    "description": "長野県上田市の日本遺産\r\n総合観光パンフレット",
+    "description": "長野県上田市の日本遺産\n総合観光パンフレット",
     "areas": "長野県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3625/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/01/328x181_ea1e9d427fb5664c32c517a73e421e58_c36eb0234073fa40bee3baa3465acb1994a6fd6c.png"
   },
   {
     "day": "2024-02-01",
-    "jhno": 93,
+    "jhno": "93",
     "type": "メディア",
     "title": "絵本「おひさまはみている」ウェブブックを公開しました",
-    "description": "長野県上田市の日本遺産\r\n龍と生きるまちを描いた絵本",
+    "description": "長野県上田市の日本遺産\n龍と生きるまちを描いた絵本",
     "areas": "長野県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3627/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/01/328x181_ea1e9d427fb5664c32c517a73e421e58_1f177091db61edac101f4c318331e2b22b3952f5.jpg"
   },
   {
     "day": "2024-02-01",
-    "jhno": 93,
+    "jhno": "93",
     "type": "メディア",
     "title": "「月刊江戸楽」抜き刷りパンフレットを制作しました",
-    "description": "月刊「江戸楽」令和５年８月号\r\n抜き刷りパンフレット発行！",
+    "description": "月刊「江戸楽」令和５年８月号\n抜き刷りパンフレット発行！",
     "areas": "長野県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3629/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/01/328x181_ea1e9d427fb5664c32c517a73e421e58_cae6a512774ca51f814fd6fd2cbfc4a9fa1cc810.jpg"
   },
   {
     "day": "2024-02-01",
-    "jhno": 93,
+    "jhno": "93",
     "type": "イベント",
     "title": "令和５年度「日本遺産 信州上田・塩田平検定」",
-    "description": "【12月17日（日）開催】\r\n長野県上田市のご当地検定を開催！",
+    "description": "【12月17日（日）開催】\n長野県上田市のご当地検定を開催！",
     "areas": "長野県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3632/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/01/328x181_ea1e9d427fb5664c32c517a73e421e58_0c9d0dafffee45142d2c0fea489748cb2466703b.jpg"
   },
   {
     "day": "2024-02-01",
-    "jhno": 68,
+    "jhno": "68",
     "type": "メディア",
     "title": "【北海道】北海道情報誌 HO[ほ] に”炭鉄港めし”が掲載されました！",
     "description": "北海道情報誌 HO[ほ] に”炭鉄港めし”が掲載されました！",
@@ -20611,12 +20611,52 @@
   },
   {
     "day": "2024-02-01",
-    "jhno": 88,
+    "jhno": "88",
     "type": "イベント",
     "title": "八王子車人形～美味しいとこどり公演～開催！",
     "description": "重要無形民俗文化財「八王子車人形」の代表的な演目など、八王子車人形西川古柳座の次代を担う若手座員が演じます。",
     "areas": "東京都",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3635/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/01/328x181_ea1e9d427fb5664c32c517a73e421e58_bd052c982e0216d09afa37018118d7154b6265a6.jpg"
+  },
+  {
+    "day": "2024-02-01",
+    "jhno": 63,
+    "type": "イベント",
+    "title": "歴史まちづくり・景観セミナー【第2弾】（広川町）について",
+    "description": "今年も「歴史まちづくり・景観セミナー」を開催します。",
+    "areas": "和歌山県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3636/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/01/328x181_ea1e9d427fb5664c32c517a73e421e58_d0eb2283404e73c87591081d3fd54868f9fd525a.jpg"
+  },
+  {
+    "day": "2024-02-02",
+    "jhno": 68,
+    "type": "その他",
+    "title": "【北海道】炭鉄港×ARアプリを公開しました！",
+    "description": "炭鉄港×ARアプリをリリースしました！",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3634/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/01/328x181_ea1e9d427fb5664c32c517a73e421e58_ac8fd5dc807503639193cc91d236f9c94799f601.jpg"
+  },
+  {
+    "day": "2024-02-02",
+    "jhno": 20,
+    "type": "その他",
+    "title": "「山形県の４つの日本遺産」についてアンケートにご協力ください！",
+    "description": "「山形県の４つの日本遺産」についてアンケートにご協力ください！",
+    "areas": "山形県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3638/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/02/328x181_ea1e9d427fb5664c32c517a73e421e58_599b2c7c3be51f9093a76988f3c68e9d300fb185.jpg"
+  },
+  {
+    "day": "2024-02-02",
+    "jhno": 69,
+    "type": "イベント",
+    "title": "日本遺産認定5周年記念「みちのくGOLD浪漫」シンポジウム2024 石巻、江戸時代の旅と道",
+    "description": "日本遺産認定5周年を記念し、「旅と道」をテーマにした歴史シンポジウムを開催します。歴史学研究者を講師に迎え、構成文化財「金華山道」「金華山詣」に対する理解を深めながら、「みちのくGOLD浪漫」の旅を考えます。是非、ご参加ください。",
+    "areas": "岩手県,宮城県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3640/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/02/328x181_ea1e9d427fb5664c32c517a73e421e58_cfece79ccc5d96d2f642679d1d8fd1b5714e2bd8.jpg"
   }
 ]
