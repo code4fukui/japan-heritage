@@ -20701,12 +20701,52 @@
   },
   {
     "day": "2024-02-07",
-    "jhno": 1,
+    "jhno": "1",
     "type": "その他",
     "title": "〈日田市〉令和5年度　日本遺産子どもガイド　第12回研修会を開催しました",
     "description": "",
     "areas": "大分県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3647/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/07/328x181_ea1e9d427fb5664c32c517a73e421e58_89b0de95db002af3e0bcd7e0b35a25c735c48356.jpg"
+  },
+  {
+    "day": "2024-02-08",
+    "jhno": 67,
+    "type": "イベント",
+    "title": "「みんなの西都原フォトコンテスト2024」開催のお知らせ",
+    "description": "宮崎県立西都原考古博物館で、西都原の魅力を写した写真コンテストを開催します。",
+    "areas": "宮崎県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3648/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/08/328x181_ea1e9d427fb5664c32c517a73e421e58_2624a7fb8d7bffb6dd6122d8e275175ee5bd34de.jpg"
+  },
+  {
+    "day": "2024-02-08",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "【北海道三笠市】三笠ジオパーク学習会「集治監と北海道開拓の歴史」を開催します",
+    "description": "安価な囚人の労働力を利用して北海道の開拓にあたらせることを目的に刑事施設である集治監。 「集治監と北海道開拓の歴史」と題し、月形樺戸博物館学芸員の野本和宏氏にご講演頂きます。ぜひご参加下さい。",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3650/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/08/328x181_ea1e9d427fb5664c32c517a73e421e58_6348195d8ad21d8e34c2e0f7153b03a35ef1a099.jpg"
+  },
+  {
+    "day": "2024-02-08",
+    "jhno": 12,
+    "type": "メディア",
+    "title": "【鳥取県三朝町】　番組『日本遺産』 WEB限定公開のお知らせ",
+    "description": "",
+    "areas": "鳥取県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3655/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/08/328x181_ea1e9d427fb5664c32c517a73e421e58_1f52123a65fa5ee2f017c2573ee2d14382c5b358.jpg"
+  },
+  {
+    "day": "2024-02-08",
+    "jhno": 12,
+    "type": "メディア",
+    "title": "【鳥取県三朝町】日本遺産の日PRイベントに出展します",
+    "description": "",
+    "areas": "鳥取県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3656/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/08/328x181_ea1e9d427fb5664c32c517a73e421e58_cf40cc86de2c66899212225c0cf723b9e420ee1b.jpg"
   }
 ]
