@@ -20711,7 +20711,7 @@
   },
   {
     "day": "2024-02-08",
-    "jhno": 67,
+    "jhno": "67",
     "type": "イベント",
     "title": "「みんなの西都原フォトコンテスト2024」開催のお知らせ",
     "description": "宮崎県立西都原考古博物館で、西都原の魅力を写した写真コンテストを開催します。",
@@ -20721,7 +20721,7 @@
   },
   {
     "day": "2024-02-08",
-    "jhno": 68,
+    "jhno": "68",
     "type": "イベント",
     "title": "【北海道三笠市】三笠ジオパーク学習会「集治監と北海道開拓の歴史」を開催します",
     "description": "安価な囚人の労働力を利用して北海道の開拓にあたらせることを目的に刑事施設である集治監。 「集治監と北海道開拓の歴史」と題し、月形樺戸博物館学芸員の野本和宏氏にご講演頂きます。ぜひご参加下さい。",
@@ -20731,7 +20731,7 @@
   },
   {
     "day": "2024-02-08",
-    "jhno": 12,
+    "jhno": "12",
     "type": "メディア",
     "title": "【鳥取県三朝町】　番組『日本遺産』 WEB限定公開のお知らせ",
     "description": "",
@@ -20741,12 +20741,32 @@
   },
   {
     "day": "2024-02-08",
-    "jhno": 12,
+    "jhno": "12",
     "type": "メディア",
     "title": "【鳥取県三朝町】日本遺産の日PRイベントに出展します",
     "description": "",
     "areas": "鳥取県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3656/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/08/328x181_ea1e9d427fb5664c32c517a73e421e58_cf40cc86de2c66899212225c0cf723b9e420ee1b.jpg"
+  },
+  {
+    "day": "2024-02-09",
+    "jhno": 56,
+    "type": "イベント",
+    "title": "【予告】2/10～12有楽町駅前にて紅花のペーパーフラワー作りをします！ ",
+    "description": "明日２月10日（土）～12日（月・祝）まで、有楽町駅前広場にて開催の「日本遺産マルシェ」に出展いたします！",
+    "areas": "山形県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3657/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/09/328x181_ea1e9d427fb5664c32c517a73e421e58_6b2bf104c658124808bb244e09caf39d74e484cc.jpg"
+  },
+  {
+    "day": "2024-02-09",
+    "jhno": 20,
+    "type": "イベント",
+    "title": "日本遺産マルシェに出展します",
+    "description": "2月10日から12日にJR有楽町駅前広場で開催される日本遺産マルシェに出展します",
+    "areas": "山形県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3658/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/09/328x181_ea1e9d427fb5664c32c517a73e421e58_8746132fdfbddaaefe70cc6d5fe7feee53b78391.png"
   }
 ]
