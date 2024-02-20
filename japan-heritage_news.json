@@ -20851,17 +20851,17 @@
   },
   {
     "day": "2024-02-19",
-    "jhno": 69,
+    "jhno": "69",
     "type": "イベント",
     "title": "講座「『宮城県鉱山誌』から学ぶ気仙地方の金鉱山」が開催されます。",
-    "description": "講座「『宮城県鉱山誌』から学ぶ気仙地方の金鉱山」が開催されます。\r\n2023年８月に出版された『宮城県鉱山誌』の著者五十公野裕也先生から気仙沼地方の金鉱山についてお話頂きます。\r\n申込は令和6年２月19日(月)から定員30名(先着順)の予定です。\r\n是非お申込みください。\r\n詳しくは、気仙沼市公式ホームページをご覧ください。",
+    "description": "講座「『宮城県鉱山誌』から学ぶ気仙地方の金鉱山」が開催されます。\n2023年８月に出版された『宮城県鉱山誌』の著者五十公野裕也先生から気仙沼地方の金鉱山についてお話頂きます。\n申込は令和6年２月19日(月)から定員30名(先着順)の予定です。\n是非お申込みください。\n詳しくは、気仙沼市公式ホームページをご覧ください。",
     "areas": "岩手県,宮城県",
     "url": "https://www.kesennuma.miyagi.jp/edu/s166/010/010/011/20240213135741.html",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/19/328x181_ea1e9d427fb5664c32c517a73e421e58_e6c4548b08f8d16eab1c4b1bb4b1a35ba445b1d0.png"
   },
   {
     "day": "2024-02-19",
-    "jhno": 22,
+    "jhno": "22",
     "type": "その他",
     "title": "【福島県郡山市】日本遺産PR推進へ企業版ふるさと納税のご協力をお願いします",
     "description": "",
@@ -20871,12 +20871,32 @@
   },
   {
     "day": "2024-02-19",
-    "jhno": 1,
+    "jhno": "1",
     "type": "その他",
     "title": "〈日田市〉令和5年度　日本遺産中学生英語ガイド　第7回研修会を開催しました",
     "description": "",
     "areas": "大分県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3684/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/19/328x181_ea1e9d427fb5664c32c517a73e421e58_0d73ac0c89006809d4c97362961a06329e0cfc47.jpg"
+  },
+  {
+    "day": "2024-02-19",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "夕張が舞台の音楽劇「大正元禄ロックンロール家族」上演",
+    "description": "東京都下北沢で、大正時代の炭鉱で賑わう夕張を舞台にした音楽劇が上演されます。\r\nご自宅から視聴できる配信チケットも！ぜひチェックしてください。",
+    "areas": "北海道,東京都",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3687/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/19/328x181_ea1e9d427fb5664c32c517a73e421e58_7b4592a2da445a6ec28371c8f69d4ed4e3633eb4.jpg"
+  },
+  {
+    "day": "2024-02-20",
+    "jhno": 46,
+    "type": "メディア",
+    "title": "和歌の浦・短歌ワークショップが開催されました！",
+    "description": "",
+    "areas": "和歌山県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3702/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/20/328x181_ea1e9d427fb5664c32c517a73e421e58_ba6ab39ceb168f70a2e4a9afa2ff38223b53f945.jpg"
   }
 ]
