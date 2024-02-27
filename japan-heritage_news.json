@@ -20918,5 +20918,35 @@
     "areas": "岩手県,宮城県",
     "url": "https://www.tnm.jp/modules/r_event/index.php?controller=dtl&cid=5&id=10976",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/21/328x181_ea1e9d427fb5664c32c517a73e421e58_7baf3f9f9284cef2e7bb8ef5e4d0098a006a7f44.jpg"
+  },
+  {
+    "day": "2024-02-23",
+    "jhno": 53,
+    "type": "イベント",
+    "title": "肥後民家村でひな人形展示中♪",
+    "description": "熊本県玉名郡和水町の江田船山古墳公園敷地内にある「肥後民家村」。自然豊かな空間にある古民家で、現在約1,500体のひな人形が展示中！",
+    "areas": "熊本県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3735/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/27/328x181_ea1e9d427fb5664c32c517a73e421e58_67355749be626677855931c03113f118d58f1c17.jpg"
+  },
+  {
+    "day": "2024-02-27",
+    "jhno": 52,
+    "type": "イベント",
+    "title": "２月29日は四年に一度の特別な「ふくの日」です",
+    "description": "２月29日は四年に一度の特別な「ふくの日」です",
+    "areas": "山口県,福岡県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3732/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/27/328x181_ea1e9d427fb5664c32c517a73e421e58_ac744542263e64628d04049c4da9f9e91162966e.jpg"
+  },
+  {
+    "day": "2024-02-27",
+    "jhno": 53,
+    "type": "イベント",
+    "title": "「令和5年度春の装飾古墳一斉公開」が開催されます！",
+    "description": "専門職員等による解説を聞きながら、菊池川流域に華開いた古墳文化に触れてみませんか！",
+    "areas": "熊本県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3737/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/27/328x181_ea1e9d427fb5664c32c517a73e421e58_f04b3aac5ac834ff0c6b8f7d8169c8332e8af54e.jpg"
   }
 ]
