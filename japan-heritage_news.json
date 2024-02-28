@@ -20921,7 +20921,7 @@
   },
   {
     "day": "2024-02-23",
-    "jhno": 53,
+    "jhno": "53",
     "type": "イベント",
     "title": "肥後民家村でひな人形展示中♪",
     "description": "熊本県玉名郡和水町の江田船山古墳公園敷地内にある「肥後民家村」。自然豊かな空間にある古民家で、現在約1,500体のひな人形が展示中！",
@@ -20931,7 +20931,7 @@
   },
   {
     "day": "2024-02-27",
-    "jhno": 52,
+    "jhno": "52",
     "type": "イベント",
     "title": "２月29日は四年に一度の特別な「ふくの日」です",
     "description": "２月29日は四年に一度の特別な「ふくの日」です",
@@ -20941,12 +20941,22 @@
   },
   {
     "day": "2024-02-27",
-    "jhno": 53,
+    "jhno": "53",
     "type": "イベント",
     "title": "「令和5年度春の装飾古墳一斉公開」が開催されます！",
     "description": "専門職員等による解説を聞きながら、菊池川流域に華開いた古墳文化に触れてみませんか！",
     "areas": "熊本県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3737/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/27/328x181_ea1e9d427fb5664c32c517a73e421e58_f04b3aac5ac834ff0c6b8f7d8169c8332e8af54e.jpg"
+  },
+  {
+    "day": "2024-02-28",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "【北海道三笠市】三笠ジオパーク学習会「炭鉱の歴史」を開催します",
+    "description": "北海道の近代化を進めたという内容から炭鉱の歴史的価値が改めて評価されています。\r\n今回は三笠市の炭鉱に焦点を当て解説します。",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3749/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/28/328x181_ea1e9d427fb5664c32c517a73e421e58_308291b166e0c91cf88083a88255ae0ffb7724a4.jpg"
   }
 ]
