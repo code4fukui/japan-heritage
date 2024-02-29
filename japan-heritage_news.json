@@ -20951,12 +20951,22 @@
   },
   {
     "day": "2024-02-28",
-    "jhno": 68,
+    "jhno": "68",
     "type": "イベント",
     "title": "【北海道三笠市】三笠ジオパーク学習会「炭鉱の歴史」を開催します",
-    "description": "北海道の近代化を進めたという内容から炭鉱の歴史的価値が改めて評価されています。\r\n今回は三笠市の炭鉱に焦点を当て解説します。",
+    "description": "北海道の近代化を進めたという内容から炭鉱の歴史的価値が改めて評価されています。\n今回は三笠市の炭鉱に焦点を当て解説します。",
     "areas": "北海道",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3749/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/28/328x181_ea1e9d427fb5664c32c517a73e421e58_308291b166e0c91cf88083a88255ae0ffb7724a4.jpg"
+  },
+  {
+    "day": "2024-02-28",
+    "jhno": 72,
+    "type": "イベント",
+    "title": "【名古屋市】有松まちなみ美術館",
+    "description": "有松  東海道沿いの町家を会場に様々なアーティストの作品を展示。",
+    "areas": "愛知県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3752/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/28/328x181_ea1e9d427fb5664c32c517a73e421e58_c9a81169593cc0dafb97166e1b481678071bae56.jpg"
   }
 ]
