@@ -20961,12 +20961,42 @@
   },
   {
     "day": "2024-02-28",
-    "jhno": 72,
+    "jhno": "72",
     "type": "イベント",
     "title": "【名古屋市】有松まちなみ美術館",
     "description": "有松  東海道沿いの町家を会場に様々なアーティストの作品を展示。",
     "areas": "愛知県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3752/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/28/328x181_ea1e9d427fb5664c32c517a73e421e58_c9a81169593cc0dafb97166e1b481678071bae56.jpg"
+  },
+  {
+    "day": "2024-03-01",
+    "jhno": 52,
+    "type": "イベント",
+    "title": "【春のイベント情報：関門海峡】クラシカルバイクスタイルで楽しむ春の関門海峡",
+    "description": "クラシカルバイクスタイルで集いましょう",
+    "areas": "山口県,福岡県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3753/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/02/28/328x181_ea1e9d427fb5664c32c517a73e421e58_ad2c7fab341c0bded93aaf8762cef6dfe8754556.jpg"
+  },
+  {
+    "day": "2024-03-01",
+    "jhno": 22,
+    "type": "メディア",
+    "title": "【福島県郡山市】日本遺産「一本の水路」魅力発信のための寄附を受け付けています",
+    "description": "日本遺産「一本の水路」プロモーション協議会（会長：郡山市長）では、日本遺産認定ストーリー「未来を拓いた『一本の水路』」のPRを通じて、観光誘客や郷土愛の醸成、地域活性化などを積極的に推進するため、皆様からの寄附を受け付けています。\r\n郡山・猪苗代の礎となった、先人が残した素晴らしいふるさとの遺産を、次の世代へ大切に引き継いでいくために、皆様の温かいご協力をよろしくお願いします。",
+    "areas": "福島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3761/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/05/31/328x181_ea1e9d427fb5664c32c517a73e421e58_dc0c9b20b43d6141aad9c035d8ecd1ae425fe1d5.jpg"
+  },
+  {
+    "day": "2024-03-01",
+    "jhno": 1,
+    "type": "その他",
+    "title": "〈日田市〉天領日田おひなまつりに「日本遺産子どもガイド」を開催しました",
+    "description": "",
+    "areas": "大分県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3762/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/03/01/328x181_ea1e9d427fb5664c32c517a73e421e58_61cd54af40a6d58495ee96ab7dd9163262082fc9.jpg"
   }
 ]
