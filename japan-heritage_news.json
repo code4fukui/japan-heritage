@@ -21021,7 +21021,7 @@
   },
   {
     "day": "2024-03-06",
-    "jhno": 68,
+    "jhno": "68",
     "type": "メディア",
     "title": "雑誌「北海道生活」で炭鉄港めしが紹介",
     "description": "北海道の魅力を伝える情報誌「北海道生活」春号に、炭鉱町の食文化として、なんこ、がんがん鍋、ガタタンが紹介されています。",
@@ -21031,12 +21031,32 @@
   },
   {
     "day": "2024-03-06",
-    "jhno": 88,
+    "jhno": "88",
     "type": "その他",
     "title": "八王子城跡御主殿出土品の看板を設置しました！",
     "description": "現地の遺構と合わせてぜひご覧ください。",
     "areas": "東京都",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3766/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/03/06/328x181_ea1e9d427fb5664c32c517a73e421e58_63c3dceaffff09b5e4b690fcc3c5ad461d4e096f.jpg"
+  },
+  {
+    "day": "2024-03-07",
+    "jhno": 68,
+    "type": "その他",
+    "title": "炭鉄港ガイドマップに英語版・中国語（繫体字）版が登場！",
+    "description": "炭鉄港地域を巡る際には必携！人気の炭鉄港ガイドマップの英語版、中国語（繫体字）版ができました。",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3768/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/03/06/328x181_ea1e9d427fb5664c32c517a73e421e58_c54244203282c311c7c094050a7cde40629c2794.png"
+  },
+  {
+    "day": "2024-03-07",
+    "jhno": 65,
+    "type": "イベント",
+    "title": "鞆・町並ひな祭　～みにきない　町並み舞台　ひな笑ふ～",
+    "description": "",
+    "areas": "広島県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3769/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/03/07/328x181_ea1e9d427fb5664c32c517a73e421e58_7f2f5944c97dac34152f87f8b62ea921678a155e.jpg"
   }
 ]
