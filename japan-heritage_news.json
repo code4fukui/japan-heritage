@@ -21041,7 +21041,7 @@
   },
   {
     "day": "2024-03-07",
-    "jhno": 68,
+    "jhno": "68",
     "type": "その他",
     "title": "炭鉄港ガイドマップに英語版・中国語（繫体字）版が登場！",
     "description": "炭鉄港地域を巡る際には必携！人気の炭鉄港ガイドマップの英語版、中国語（繫体字）版ができました。",
@@ -21051,12 +21051,52 @@
   },
   {
     "day": "2024-03-07",
-    "jhno": 65,
+    "jhno": "65",
     "type": "イベント",
     "title": "鞆・町並ひな祭　～みにきない　町並み舞台　ひな笑ふ～",
     "description": "",
     "areas": "広島県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3769/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/03/07/328x181_ea1e9d427fb5664c32c517a73e421e58_7f2f5944c97dac34152f87f8b62ea921678a155e.jpg"
+  },
+  {
+    "day": "2024-03-08",
+    "jhno": 56,
+    "type": "メディア",
+    "title": "【「YAMAGATA BATONS　紅花文化編」新しい動画を公開しました！】",
+    "description": "身近にある「スゴイ文化」を子供たちと体験する「YAMAGATA BATONS」の新たな動画を公開しました！",
+    "areas": "山形県",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3770/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/03/08/328x181_ea1e9d427fb5664c32c517a73e421e58_3dda5f7eaa3c48e6f143fc199fc520d789e00f77.jpg"
+  },
+  {
+    "day": "2024-03-08",
+    "jhno": 68,
+    "type": "イベント",
+    "title": "【北海道】2024JRヘルシーウォーキング炭鉄港コラボ企画開催！",
+    "description": "「2024ＪＲヘルシーウォーキング」で炭鉄港コースを歩こう！",
+    "areas": "北海道",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3771/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2023/04/25/328x181_ea1e9d427fb5664c32c517a73e421e58_cbafd45fff2d24170951d69d95a75f0199cdfd65.png"
+  },
+  {
+    "day": "2024-03-08",
+    "jhno": 88,
+    "type": "イベント",
+    "title": "「火渡り祭」が開催！",
+    "description": "一般の方も火渡りを体験することが出来ます。",
+    "areas": "東京都",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3772/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/03/08/328x181_ea1e9d427fb5664c32c517a73e421e58_964b54434a8759a95f4523af8e60cb03574cbc17.jpg"
+  },
+  {
+    "day": "2024-03-08",
+    "jhno": 88,
+    "type": "イベント",
+    "title": "「高尾梅郷梅まつり」が開催！",
+    "description": "梅の香りに包まれる小仏周辺の魅力を体感ください。",
+    "areas": "東京都",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3773/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/03/08/328x181_ea1e9d427fb5664c32c517a73e421e58_7c7938f23db86066a440746f17032b19a9a6fe4f.jpg"
   }
 ]
