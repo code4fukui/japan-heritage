@@ -21101,22 +21101,32 @@
   },
   {
     "day": "2024-03-11",
-    "jhno": 67,
+    "jhno": "67",
     "type": "メディア",
     "title": "南国宮崎の古墳景観　PR動画を制作しました",
-    "description": "日本遺産　南国宮崎の古墳景観 -古代人のモニュメント- のPR動画を制作しました。\r\n",
+    "description": "日本遺産　南国宮崎の古墳景観 -古代人のモニュメント- のPR動画を制作しました。\n",
     "areas": "宮崎県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3774/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/03/11/328x181_ea1e9d427fb5664c32c517a73e421e58_091942328180def19e812d0f758d0c2773dce8e0.jpg"
   },
   {
     "day": "2024-03-11",
-    "jhno": 67,
+    "jhno": "67",
     "type": "イベント",
     "title": "「西都花まつり2024」開催",
     "description": "春の西都の一大イベント「西都花まつり」がいよいよ開催！",
     "areas": "宮崎県",
     "url": "https://japan-heritage.bunka.go.jp/ja/news/3775/",
     "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/03/11/328x181_ea1e9d427fb5664c32c517a73e421e58_ec91ac8b9c554c28d07dd348435fd24293adf811.jpg"
+  },
+  {
+    "day": "2024-03-12",
+    "jhno": 1,
+    "type": "その他",
+    "title": "〈足利市〉近世日本の教育遺産群体験型ツアー申込募集中！",
+    "description": "〈足利市〉近世日本の教育遺産群体験型ツアー申込募集中です！",
+    "areas": "栃木県,東京都",
+    "url": "https://japan-heritage.bunka.go.jp/ja/news/3776/",
+    "image": "https://japan-heritage.bunka.go.jp/ja/datas/cache/images/2024/03/12/328x181_ea1e9d427fb5664c32c517a73e421e58_d2e3d44f71e5e43867df68c420920e2cfb18fa9b.png"
   }
 ]
