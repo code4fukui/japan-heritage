@@ -1,5 +1,7 @@
 # japan-heritage
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 Open data for Japanese Heritage Sites.
 
 ## Demo

@@ -3,13 +3,11 @@
 日本遺産ポータルサイトからのオープンデータを提供しています。日本遺産の一覧、構成文化財の一覧、及びお知らせ情報を公開しています。
 
 ## デモ
-
 - [日本遺産一覧](https://code4fukui.github.io/japan-heritage/)
 - [日本遺産 構成文化財一覧](https://code4fukui.github.io/japan-heritage/props.html)
 - [日本遺産 お知らせ一覧](https://code4fukui.github.io/japan-heritage/news.html)
 
 ## 機能
-
 - 日本遺産の一覧表示
 - 日本遺産の構成文化財一覧表示
 - 日本遺産のお知らせ情報表示
