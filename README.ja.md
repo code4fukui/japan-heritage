@@ -57,7 +57,7 @@
 このオープンデータを使用して構築されたアプリケーションです：
 
 -   [open-hinata](https://kenzkenz.xsrv.jp/open-hinata/#6/137.5795/37.45059%3FS%3D1%26L%3D%5B%5B%7B%22id%22%3A%22nihonisan%22%2C%22ck%22%3Atrue%2C%22o%22%3A1%7D%2C%7B%22id%22%3A2%2C%22ck%22%3Atrue%2C%22o%22%3A1%2C%22c%22%3A%22%22%7D%5D%2C%5B%7B%22id%22%3A2%2C%22ck%22%3Atrue%2C%22o%22%3A1%2C%22c%22%3A%22%22%7D%5D%2C%5B%7B%22id%22%3A2%2C%22ck%22%3Atrue%2C%22o%22%3A1%2C%22c%22%3A%22%22%7D%5D%2C%5B%7B%22id%22%3A2%2C%22ck%22%3Atrue%2C%22o%22%3A1%2C%22c%22%3A%22%22%7D%5D%5D) ([X/Twitter](https://twitter.com/taisukef/status/1687569608457469955))
--   [日本遺産（文化財）マップ](https://shi-works.github.io/japan-heritage-map/) ([GitHub](https://github.com/shi-works/japan-heritage-map) / [X/Twitter](https://twitter.com/taisukef/status/1687566995993337856))
+-   日本遺産（文化財）マップ *(demo unavailable)* ([GitHub](https://github.com/shi-works/japan-heritage-map) / [X/Twitter](https://twitter.com/taisukef/status/1687566995993337856))
 
 ## データソースとライセンス
 
